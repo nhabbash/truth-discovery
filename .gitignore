@@ -2,3 +2,4 @@
 .cenv
 .ipynb*
 __pycache__
+tmp*
