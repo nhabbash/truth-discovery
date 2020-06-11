@@ -2,6 +2,7 @@ notebook
 jupyter_contrib_nbextensions
 jupyter_nbextensions_configurator
 fuzzywuzzy[speedup]
+strsim
 pandas
 seaborn
 

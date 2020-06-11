@@ -1,6 +1,16 @@
 import numpy as np
 import pandas as pd
 from fuzzywuzzy import fuzz
+from similarity.cosine import Cosine
+
+def cosine_sim(f1, f2):
+    cosine = Cosine(2)
+    p0 = cosine.get_profile(f1)
+    p1 = cosine.get_profile(f2)
+    return cosine.similarity_profiles(p0, p1)
+
+def character_sub_sim(f1, f2):
+    return (fuzz.token_set_ratio(f1.lower(), f2.lower()) / 100)
 
 class TruthFinder(object):
     '''
@@ -21,7 +31,7 @@ class TruthFinder(object):
         self.object = obj
     
         if implication==None:
-            self.implication = self._std_implication
+            self.implication = cosine_sim
         else:
             self.implication = implication
 
@@ -85,26 +95,17 @@ class TruthFinder(object):
         adjusted_confidences = {}
         for i, i_row in data.iterrows():
             f1 = i_row[self.fact]
-            sigma_s = 0.0
+            relatedness = 0.0
             for j, j_row in data.drop_duplicates(self.fact).iterrows():
                 f2 = j_row[self.fact]
                 if f1 == f2:
                     continue
-                sigma_s += j_row["confidence"] * self.implication(f2, f1)
-                
-            if(f1 in ["Einstein", "Albert Einstein"] or f2 in ["Einstein", "Albert Einstein"]):
-                print(f1)
-                print(f2)
-                print(sigma_s)
+                relatedness += j_row["confidence"] * (self.implication(f2, f1) - self.base_sim)
 
-            adjusted_confidences[i] = self.relatedness_factor * sigma_s + i_row["confidence"]
+            adjusted_confidences[i] = self.relatedness_factor * relatedness + i_row["confidence"]
             
-        
         data["confidence"] = adjusted_confidences.values()
         return data
-
-    def _std_implication(self, f1, f2):
-        return (fuzz.token_set_ratio(f1.lower(), f2.lower()) / 100) - self.base_sim
 
     def _adjust_confidence_dependance(self, data):
         '''
