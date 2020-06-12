@@ -1,0 +1,1264 @@
+source,isbn,title,authors,trust,confidence
+indoo.com,0201853949,art of computer programming volume 4 fascicle 3 the generating all combinations and partitions,knuth donald e,0.9361375021708288,0.9999995887342065
+indoo.com,0321335708,the art of computer programming volume 4 fascicle 4 generating all treeshistory of combinatorial generation,knuth donald e,0.9361375021708288,0.9999927416788137
+powell's  books,0201853922,art of computer prog fascicle 1 volume 1 mmi,knuth donald e,0.9620380428577028,0.9998750899847066
+indoo.com,0201853930,art of computer programming volume 4 fascicle 2 the generating all tuples and permutations,knuth donald e,0.9361375021708288,0.9999997427311178
+happybook,0201361213,algorithms in java graph algorithms,sedgewick robert,0.9951261595446104,0.9984895244490667
+ben artoge bookstore,0201775786,algorithms in c parts 14fundamentalsdata structuressortingsearchingthird edition,robert sedgewick,0.9901706355796434,0.9586331507760623
+the e,0201361205,algorithms in java parts 1 4 fundamentals data structures sorting searching,sedgewick robert,0.9959742144677067,0.9988980889988534
+indoo.com,0201756080,algorithms in c parts 15 bundle fundamentals data structures sorting searching and graph algorithms,sedgewick robert,0.9361375021708288,0.9834891447206308
+books2anywhere.com,020172684X,algorithms in c,sedgewick robert,0.9812117673013818,0.9997339982697669
+powell's  books,0201896842,art of computer prog 3ed volume 2,knuth donald e,0.9620380428577028,0.9999996101663139
+indoo.com,0201896850,art of computer programming volume 3 sorting and searching,knuth donald e,0.9361375021708288,0.999993420107938
+aa42.com,0201896834,art of computer programming the,knuth donald e,0.9999986116489288,0.9999986116489288
+international books,020140009X,an introduction to the analysis of algorithms paperback,robert sedgewick philippe flajolet,0.9854403854010918,0.9766819712945957
+a2zbooks,020163208X,practical algorithms for programmers,binstock andrew rex john,0.9594279279660275,0.9989988190518806
+the e,0201558025,concrete mathematics a foundation for computer science,graham ronald l,0.9959742144677067,0.9997347407759082
+book gallery // mike riley,0201548569,an introduction to parallel algorithms,jaja joseph,0.9481920611104497,0.9481920611104497
+the e,0321204662,artificial intelligence a guide to intelligent systems,negnevitsky michael,0.9959742144677067,0.99999999381349
+booksoul,0321263189,artificial intelligence structures and strategies for complex problem solving,luger george f,0.999919102432339,0.9999998461370713
+economy books,0201648660,artificial intelligence structures and strategies for complex problem solving,luger george f,0.9917459627113042,0.999218338980806
+bookbyte / norwest textbooks,0805325476,artificial intelligence theory and practice by dean,dean thomas allen james aloimonos yiannis,0.9592849983398527,0.9680591282921556
+technischer overseas pvt. ltd.,0201533774,artificial intelligence 3e,winston,0.8321937816414274,0.9997798024823853
+textbookxdotcom,0201539217,building neural networks,david m skapura,0.8741329618647772,0.9147020228823368
+fellowshipbooks.net,0201157675,genetic algorithms in search optimization and machine learning,goldberg david e,0.9973618403864718,0.9999998686767305
+versandantiquariat robert a. mueller,0321486811,compilers principles techniques and tools,aho alfred v lam monica s sethi ravi ullman jeffrey d,0.974699512241104,0.7921403808639204
+textbookxdotcom,0321428900,compilers principles techniques and tools,aho alfred v sethi ravi etc,0.8741329618647772,0.9122013878981173
+indoo.com,1576761053,modern compiler design,galles david,0.9361375021708288,0.8251466727926822
+betterworld.com,0805327304,highperformance compilers for parallel computing,michael wolfe,0.9717390435067395,0.9845585724119099
+cobain llc,0805321667,crafting a compiler with c,charles fischer richard leblanc,0.9802907680950471,0.99542194217061
+economy books,0201100886,compilers principles techniques and tools,aho alfred v ullman jeffrey d sethi ravi,0.9917459627113042,0.9996138210470531
+economy books,0201612534,computer systems organization architecture,carpinelli john d,0.9917459627113042,0.9895854348165811
+books down under,0321112296,software systems architecture viewpointoriented system development,rozanski nick woods eoin,0.9611328871406776,0.9997659582799889
+a1books,0201325713,applied software architecture,hofmeister christine nord robert soni dilip,0.9490805663451509,0.9991928285859929
+5559store,0321321375,interactive computer graphics a topdown approach using opengl,angel edward,0.995591480428387,0.9999492494797293
+indoo.com,0321237625,opengl a primer,angel edward,0.9361375021708288,0.9997306358276535
+bingo books,0201398559,3d computer graphics 3rd ed includes cdrom,watt alan h,0.9964634848895407,0.9999362268589508
+balkanika online,0201309440,directxr rdx rsx and mmxtm technology a jumpstart guide to high performance apis,coelho rohan hawash maher,0.9610325343287897,0.9594982181097887
+beagle books,0201407094,opengl programming for windows 95 and windows nt opengl,fosner ron,0.9899478121250491,0.9996127170536023
+economy books,0201848406,computer graphics principles and practice,foley james d van dam andries feiner steven k hughes john f,0.9917459627113042,0.9996568636137988
+indoo.com,0201483599,opengl programming for the x window system,kilgard mark j,0.9361375021708288,0.9996980960015097
+kitabay,0201609215,introduction to computer graphics,foley james d,0.9645846516937309,0.9961070541204823
+books2anywhere.com,0321466756,why software sucks,platt david s,0.9812117673013818,0.9999976018957173
+ecampus.com,0321321359,web usability a usercentered design approach,lazar jonathan,0.9638414552066021,0.9999997949200116
+collegebooksdirect.com,0321116291,designing interactive systems people activities contexts technologies,benyon david turner susan turner phil,0.9674708560053913,0.9953059745802899
+brandnewtextbooks,0321197860,designing the user interface strategies for effective humancomputer interaction,shneiderman ben plaisant catherine,0.9855491494609449,0.9997525398513761
+sunmark store,0321181433,user interface design a software engineering perspective,lauesen soren,0.935476004547217,0.9999996940051249
+morgana inc,0201758679,3d user interfaces theory and practice,bowman doug a kruijff ernst laviola joseph j poupyrev ivan,0.9108635482724934,0.9995737683007322
+mandala books,0201704471,humancomputer interaction in the new millennium,carroll john m,0.9974610788640522,0.9953624516837212
+gallowglass books,0201379376,the humane interface new directions for designing interactive systems,raskin jef,0.9999999949316889,0.9999999949316889
+"e-book traders, inc.",0201483548,adapting pcs for disabilities,joseph j lazzaro,0.9815906564172817,0.9989311035145865
+"gail p. kennon, book-comber",0201550601,computers as theatre,laurel brenda,0.9999994993063714,0.9999994993063714
+swan trading company,0201608421,tog on interface,tognazzini bruce,0.9995402593492335,0.9995402593492335
+beagle books,0201517973,the art of humancomputer interface design,laurel brenda,0.9899478121250491,0.9997360586321121
+the e,0321399420,databases types and the relational model,date cj darwen hugh,0.9959742144677067,0.9896139974326824
+5559store,0321369572,fundamentals of database systems,navathe shamkant b elmasri ramez,0.995591480428387,0.9912337113770445
+g.t.s.,0321268458,database systems an application oriented approach compete version plus database place student access kit 2nd edition,michael kifer arthur bernstein philip m lewis,0.9813744958464486,0.9275027794118951
+flybookstore,0321294017,database systems a practical approach to design implementation and management,connolly thomas m begg carolyn e,0.9927126434311111,0.9684429788568195
+back alley books,0321228383,database systems an applicationoriented approach introductory version 2nd edition,kifer michael bernstein arthur lewis philip m,0.9686850476362713,0.9887841098213533
+revaluation books,0321206746,fundamentals of database systemsoracle 9i programming,elmasri ramez navathe shamkant b sunderraman rajshekhar,0.9567288371687277,0.7587885930292901
+enjoystudy,0321197844,an introduction to database systems eighth edition,date cj,0.9891065043346182,0.9994394473895072
+great_texts,0321194985,oracle 9i programming a primer,sunderraman rajshekhar,0.9951942384956852,0.9999988409528786
+collegebooksdirect.com,0321185560,principles of database systems with internet and java applications,riccardi greg,0.9674708560053913,0.9994901076159749
+ecampus.com,0201612941,the database relational model a retrospective review and analysis a historical account and assessment of e f codds contribution to the field of database technology,date cj,0.9638414552066021,0.8015178097846347
+a1books,0321243625,hitchhikerandaposs guide to visual studio and sql server best practice architectures and examples,vaughn william r blackburn peter,0.9490805663451509,0.9999887124781557
+ecampus.com,0321245458,handson microsoft access a practical guide to improving your access skills,schneider bob,0.9638414552066021,0.9999999985926165
+bookmantra.com,0201715848,practical oracle 8 building efficient databases,lewis jonathan,0.8747949968286283,0.9994502745961105
+d & a worldwide textbook service,0321321367,data mining,kumar vipin steinbach michael tan pangning,0.9992090420798798,0.9969855258136374
+ecampus.com,0321290933,designing effective database systems,riordan rebecca,0.9638414552066021,0.9999995472261501
+the e,0201741288,data mining a tutorialbased primer,roiger richard j geatz michael,0.9959742144677067,0.9973149900239361
+caiman,0201773635,learning sql,earp richard,0.943724153191377,0.9990140709129851
+ecampus.com,0321293533,refactoring databases evolutionary database design,ambler scott sadalage pramodkumar,0.9638414552066021,0.9999839637211404
+indoo.com,0321205618,seeing data designing user interfaces for database systems usingnet,riordan rebecca m,0.9361375021708288,0.9999437637141924
+"heather jo frey, bookseller",0672323435,database access with visual basic net 3rd edition paperback by jeffrey p,jeffrey p mcmanus jackie goldstein,0.9449967539608906,0.9970004537478596
+indoo.com,0201752840,database design for mere mortalsr a handson guide to relational database design,hernandez michael j,0.9361375021708288,0.9999973898495972
+odeon books,0321119045,learning sql a stepbystep guide using access,sikha bagui richard earp,0.9849010199567708,0.9065527073795199
+50000books.com,0201752948,oracle sql and plsql handbook a guide for data administrators developers and business analysts,palinski john adolph,0.9992057817430641,0.9992057817430641
+indoo.com,0201741296,database administration the complete guide to practices and procedures,mullins craig s,0.9361375021708288,0.9998801827384481
+bookmantra.com,0201713063,data resource quality turning bad habits into good practices addisonwesley information technology series,michael h brackett,0.8747949968286283,0.6948379180601593
+bookmantra.com,0201485559,practical issues in database management a reference for the thinking practitioner,pascal fabian,0.8747949968286283,0.9999900000999989
+caiman,0321397967,leveraging sql server 2005 tools,raheem michael,0.943724153191377,0.9991577105619192
+indoo.com,0321397975,administrators guide to sql server 2005,woody buck,0.9361375021708288,0.9999997439450229
+a1books,0321356985,practical business intelligence with sql server 2005,hancock john c toren roger,0.9490805663451509,0.9999741819191355
+a1books,0321447743,sql server 2005 practical troubleshooting the database engine,henderson ken,0.9490805663451509,0.9999935379964022
+a1books,0321382188,a developerandaposs guide to sql server 2005,beauchemin bob sullivan dan,0.9490805663451509,0.9999998654239869
+ecampus.com,0321349792,microsoft sql server 2005 yukon distilled,brown eric,0.9638414552066021,0.9999966477337727
+indoo.com,0321287509,gurus guide to sql server boxed set the,henderson ken,0.9361375021708288,0.999667762241192
+booklibrary,0321268288,hitchhikers guide to sql server reporting services 2000,blackburn peter vaughn william r,0.9731344186177043,0.999999827165159
+a1books,0321180593,a first look at sql server 2005 for developers,beauchemin bob berglund niels sullivan dan,0.9490805663451509,0.9999369444598679
+ecampus.com,0201700476,the gurus guide to sql server architecture and internals,henderson ken,0.9638414552066021,0.9999999998941429
+ecampus.com,0201742039,essential sql server 2000 an administration handbook,woody buck,0.9638414552066021,0.9999056028240394
+ecampus.com,0201700468,the gurus guide to sql server stored procedures xml and html,henderson ken,0.9638414552066021,0.9999999452551313
+best bargain books,0201657961,xml and sql developing web applications,daniel appelquist,0.9843626994319237,0.9938319400991025
+torontodirect,0201703092,practical sql handbook the using sql variants with cd,bowman judith s emerson sandra l darnovsky marcy,0.9999912617449151,0.9999912617449151
+indoo.com,0201615762,gurus guide to transactsql the,henderson ken,0.9361375021708288,0.9999999767445059
+ecampus.com,0201596180,an introduction to sql mastering the relational database language,lans rick f van der,0.9638414552066021,0.9918861440182902
+a1books,0201433362,sql queries for mere mortalsr a handson guide to data manipulation in sql,hernandez michael j viescas john l,0.9490805663451509,0.9999982225685455
+paperbackshop-us,1576760820,implementing databases in oracle 9i,day van slyke,0.9544419652741922,0.9035768108920349
+collegebooksdirect.com,0321305965,introduction to sql mastering the relational database language,lans rick fvan der,0.9674708560053913,0.9999796356370884
+bunches of books,0672321467,oracle performance tuning,edward whalen mitchell schroeter,0.9764145375182668,0.9881439682362018
+indoo.com,0201325748,scaling oracle8itm building highly scalable oltp system architectures,morle james,0.9361375021708288,0.9952907691952254
+"noram international partners, llc",0201634457,the oracler designer2000 handbook,carrie anderson david wendelken,0.98104125431579,0.9548650390283815
+bookbyte / norwest textbooks,032143675X,web development and design foundations with xhtml by felkemorris 3rd edition,felkemorris terry,0.9592849983398527,0.9999828255471859
+morgenstundt buch & kunst,0321304292,internet effectively a beginners guide to the world wide web,scollard lafayette scollard sharon adams tyrone,0.9794836375467192,0.9961044951375497
+indoo.com,1576761428,art theory for web design,golbeck jennifer,0.9361375021708288,0.9983509439798868
+"borgasorus books, inc",1576761150,web developer foundations using xhtml 2nd edition,felkemorris terry,0.9260081820152489,0.9997315175474589
+bookbyte / norwest textbooks,0321129474,web 101 making the net work for you by lehnert 2nd edition,lehnert wendy g,0.9592849983398527,0.9996003071619006
+frugal media corporation,0201737345,light on the web essentials to making the net work for you,wendy g lehnert,0.9923073786729354,0.9931394193383597
+urbano libros,0201357526,foundations of multithreaded parallel and distributed programming,andrews gregory r,0.9988425306737734,0.9977756824473893
+orbidoo.de,0131013769,parallel and distributed programming using c,cameron hughes tracy hughes,0.983728287639925,0.9806939499115584
+d & a worldwide textbook service,0321303326,programming the world wide web,sebesta robert w,0.9992090420798798,0.9999122382675396
+a1books,0201750767,practical web technologies,yuen pk lau vincent,0.9490805663451509,0.7132240685090689
+bookholders,1576760286,html for www developers,john avila,0.9703827885459364,0.9980761832914432
+indoo.com,1576760189,quickstart to javascript,lin forest,0.9361375021708288,0.9986424889504424
+bookbyte / norwest textbooks,1576760243,short course in html by lin,lin forest,0.9592849983398527,0.9956353339802857
+indoo.com,0321321286,preventing web attacks with apache,barnett ryan c,0.9361375021708288,0.9999994666180677
+a1books,0321193121,cascading style sheets designing for the web,lie hakon wium bos bert,0.9490805663451509,0.9999418942483344
+indoo.com,0131498622,spring into php 5,holzner steven,0.9361375021708288,0.9999999982929477
+indoo.com,0321146182,j2eetm web services,monsonhaefel richard,0.9361375021708288,0.9999998962683828
+powell's  books,0321194446,ms content management server 2002 a comp,english bill,0.9620380428577028,0.9996745987804537
+a1books,020177061X,open source development with lamp using linux apache mysql perl and php,lee james ware brent,0.9490805663451509,0.9588024094472694
+best bargain books,0672323575,aspnet developers jumpstart,paul d sheriff ken getz,0.9843626994319237,0.9855401183028223
+great buy books,0201734400,aspnet and vbnet web programming,matt j crouch,0.9733008554435607,0.9811094881840333
+james sroda - books,0201760436,agile software development ecosystems problems practices and principles,highsmith james a,0.9958517855631656,0.9958517855631656
+ecampus.com,0201740958,essential xml quick reference a programmers reference to xml xpath xslt xml schema soap and more,skonnard aaron gudgin martin,0.9638414552066021,0.9999999141673748
+"pacific book exchange, llc",0201729202,flash and xml a developers guide,jacobson dov jacobson jesse,0.9856302059707175,0.9999900762482415
+a1books,0672323540,jsptm and xml integrating xml and web services in your jsp application,kochmer casey frandsen erica,0.9490805663451509,0.9679887478738914
+best bargain books,0672321319,visual basicr net developers guide to asp net xml and adonet,jeffrey p mcmanus chris kinsman,0.9843626994319237,0.9916777459594981
+college book service,0201703599,xml family of specifications bkcdrom pb 2002,sall kenneth b,0.9461371999234421,0.9989185557525617
+ecampus.com,0201770040,xml and java developing web applications,maruyama hiroshi clark andy uramoto naohiko tamura kent murata makoto,0.9638414552066021,0.8354427706251598
+bookfanz,0201776413,xml web services and the data revolution addisonwesley information technology series,coyle frank p,0.9985133997656725,0.9989043198961682
+a1books,020171499X,the wiki way collaboration and sharing on the internet,leuf bo cunningham ward,0.9490805663451509,0.9998669350473502
+brian t stoval,0201710145,writing cgi applications with perl,meltzer kevin michalski brent,0.9718829633127535,0.9950450158725833
+bookbyte / norwest textbooks,0201657643,developing ecommerce sites an integrated approach by sharma,sharma vivek sharma rajiv,0.9592849983398527,0.9958062233256011
+bargainbookstores.com,0201709147,essential xml beyond markup the developmentor series,don box aaron skonnard john lam,0.9871913281558565,0.9939806600492774
+owlsbooks,0201379619,dynamic html the html developers guide,jeff rule,0.9740616248004155,0.9997827415430169
+hippo books,0201634627,how to setup and maintain a web site 2nd edition,lincoln d stein,0.9804917472820484,0.9994208971094245
+wonder book,0201924803,internet cryptography,richard e smith,0.9859645021930933,0.9985182171497973
+beagle books,0201422190,cgi programming in c and perl,boutell thomas,0.9899478121250491,0.9997701435110897
+b2books,0201847604,civilizing cyberspace policy power and the information superhighway,steven miller,0.9793433838575505,0.9991928019348547
+great buy books,0201489805,online law the spas legal guide to doing business on the internet,thomas j smedinghoff,0.9733008554435607,0.9998511080351676
+pay less books malaysia,0201876744,casting the net from arpanet to internet and beyond,salus peter h,0.9994105113640155,0.9998222036761504
+college book service,0201489295,online market research costeffective searching of the internet and,lescher john f,0.9461371999234421,0.9995121911961324
+"pacific book exchange, llc",0201489163,the students guide to doing research on the internet,campbell dave campbell mary,0.9856302059707175,0.9987420877303252
+the bibliofile,020163337X,tcl and the tk toolkit,ousterhout john k,0.9999924241840485,0.9999971838851671
+snowlionbooks,1576761355,web developer foundations intro dreamweaver mx,felke,0.9841627764796669,0.9998741233057575
+pacesetter books,1576761363,web developer foundations intro frontpage 2002,felke,0.9993635537335017,0.9991095260532563
+a1books,0201774224,maximum accessibility making your web site more usable for everyone,slatin john m rush sharron,0.9490805663451509,0.9988111047661151
+veda's books n more,0321112555,real web project management case studies and best practices from the trenches,shelford thomas j remillard gregory a,0.9998681279238706,0.9998681279238706
+beagle books,0201729938,shaping web usability interaction design in context,badre albert n,0.9899478121250491,0.9995557351507572
+beagle books,0201657821,web content management a collaborative approach,nakano russell,0.9899478121250491,0.9999135628437317
+"e-book traders, inc.",0201433311,collaborative web development strategies and best practices for web teams,jessica burdman,0.9815906564172817,0.9999708486819144
+ecampus.com,0131453491,imperfect xml rants raves tips and tricks from an insider,megginson david,0.9638414552066021,0.9999961036907324
+betterworld.com,0201771683,xml language mechanics and applications,dwight peltzer,0.9717390435067395,0.9848660629975704
+versandantiquariat robert a. mueller,0321150406,effective xml 50 specific ways to improve your xml,harold elliotte rusty,0.974699512241104,0.9531219274737519
+ecampus.com,0321154991,xforms xml powered web forms,raman t v,0.9638414552066021,0.9999823552918097
+textbookxdotcom,0321136179,the xml schema companion,neil bradley,0.8741329618647772,0.9855574628798237
+ecampus.com,0321180607,xquery from the experts a guide to the w3c xml query language,katz howard,0.9638414552066021,0.8524728922194231
+indoo.com,0321165810,xquery the xml query language,brundage michael,0.9361375021708288,0.9999967466884639
+smith family bookstore,0201771861,processing xml with java a guide to sax dom jdom jaxp and trax,harold elliotte rusty,0.9366482152938325,0.9999994514666359
+a1books,0201844524,xml data management native xml and xmlenabled database systems,chaudhri akmal b rashid awais zicari roberto,0.9490805663451509,0.9961363566732543
+best bargain books,0201749602,xml topic maps creating and using topic maps for the web,jack park sam hunting,0.9843626994319237,0.9718910641137686
+"pacific book exchange, llc",0201709155,modeling xml applications with uml practical ebusiness applications,carlson david,0.9856302059707175,0.9992281505016471
+textbooksnow,0321159837,distributed virtual machines inside rotor cli,nutt,0.8471070019780573,0.9078160934823016
+the e,0321267516,operating systems a systematic view,davis william s rajkumar t m,0.9959742144677067,0.9998398915927564
+the e,032122731X,unix the textbook,sarwar syed mansoor koretsky robert sarwar syed aqeel,0.9959742144677067,0.999846719319844
+collegebooksdirect.com,1576761061,a operating systems for technicians,meadors todd schmidt cheryl ann,0.9674708560053913,0.8987868548759633
+the e,0201773449,operating systems,nutt gary j,0.9959742144677067,0.9999740182155807
+gunars store,0201773457,linux programming toolsprimer for sft dev,sarwar koretsky,0.9343864615528049,0.7945542742142909
+opoe-abe books,0201741954,interactive linux tutorialrefwcd,addisonwesley,0.8269923235829199,0.6661394245831221
+fireside angler,0201725959,linux the textbook,sarwar syed mansoor koretsky robert sarwar syed aqeel,0.966945746748589,0.966945746748589
+the e,0201612437,kernel projects for linux,nutt gary j nutt gary,0.9959742144677067,0.994136510348538
+bookbyte / norwest textbooks,0201477084,operating system projects using windows nt by nutt,nutt gary nutt gary,0.9592849983398527,0.9092598616191686
+www.textbooksrus.com,0201548879,osp an environment for operating system projects,michael kifer scott a smolka,0.9787469008972882,0.9160446011987088
+jacaranda online,0201622076,sad macs bombs and other disasters and what to do about them,ted landau,0.9936646353023194,0.9911662217501868
+beagle books,0805375651,a practical guide to the unix system 3rd edition,sobell mark g,0.9899478121250491,0.9999721767338794
+bookbyte / norwest textbooks,080537566X,unix system 5 a practical guide by sobell 3rd edition,sobell mark g,0.9592849983398527,0.9999990199207602
+the e,0131429019,the art of unix programming,raymond eric s,0.9959742144677067,0.9999999968017743
+morgenstundt buch & kunst,0131411551,unix network programming,stevens wrichard fenner bill rudoff andrew m,0.9794836375467192,0.9998732436090849
+title wave books,0201593882,aix survival guide,siegert andreas,0.9977440816502174,0.9998500849198891
+frugal media,0201419793,unix for the impatient cdrom version 2nd edition,paul w abrahams bruce r larson,0.9775148407064838,0.9916506777033914
+half red house,0201549794,the design and implementation of the 44bsd operating system,mckusick marshall kirk bostic keith karels michael j quarterman john s,0.9916402410174717,0.9916402410174717
+universalathenaeum,0201823764,unix for the impatient 2nd edition,paul w abrahams bruce r larson,0.9913071345325886,0.99997741070377
+jr trading/bookjoint,0201547775,a quarter century of unix addisonwesley unix and open systems series,salus peter h,0.9413532065925487,0.9996453124586552
+powell's  books,0201633388,unix systems for modern architectures,schimmel curt,0.9620380428577028,0.9872687513950409
+brockport college foundation -- books,0201563177,advanced programming in the unix environment,stevens w richard,0.9880345171319269,0.9999871346648139
+a2zbooks,0201523744,writing unix device drivers,pajari george,0.9594279279660275,0.9988235839845105
+paperbackshop-us,0321423437,moving to free software,gagne marcel,0.9544419652741922,0.9999248731159341
+movies with a smile,032142722X,moving to ubuntu linux,gagne marcel,0.9622533487988066,0.9998544779446082
+collegebooksdirect.com,0321356403,moving to linux kiss the blue screen of death goodbye,gagne marcel,0.9674708560053913,0.9999494376152267
+jr trading/bookjoint,0321219147,linux application development 2nd edition,johnson michael k troan erik w,0.9413532065925487,0.9999986396893054
+indoo.com,0131853546,spring into linuxr,valade janet,0.9361375021708288,0.9999998673400029
+indoo.com,0672322269,embedded linuxr hardware software and interfacing,hollabaugh craig,0.9361375021708288,0.9999574845818675
+revaluation books,0201719754,linux kernel programming,beck michael bohme harald dziadzka mirko kunitz ulrich magnus robert schroter claus verworner dirk,0.9567288371687277,0.8921796189978048
+collegebooksdirect.com,0201719347,linux system administration a users guide,gagne marcel,0.9674708560053913,0.9794925634710804
+ecampus.com,0201674726,linux and unix shell programming,tansley david,0.9638414552066021,0.9999548101040162
+beagle books,0201895498,a practical guide to linux,sobell mark g,0.9899478121250491,0.999999999316834
+gotbooks,0201563452,gnu emacs unix text editing and programming hewlettpackard press series,michael a schoonover john s bowie william r arnold,0.9696352479476626,0.9132356265995238
+hippo books,020156324X,kornshell programming tutorial hewlettpackard press series,barry rosenberg,0.9804917472820484,0.9877675931715971
+by hand books,0201767910,software engineering and computer games,rucker rudy,0.965079827377253,0.9999947338840834
+a1books,0321399838,essential windows workflow foundation,shukla dharma schmidt bob,0.9490805663451509,0.9999980003445659
+a1books,0321440307,the old new thing practical development throughout the evolution of windows,chen raymond,0.9490805663451509,0.9875329952636556
+a1books,0321197690,smart client deployment with clickoncetm deploying windows forms applications with clickoncetm,noyes brian,0.9490805663451509,0.9994548881457268
+indoo.com,0321194047,understandingnet,chappell david,0.9361375021708288,0.9999999971845652
+ecampus.com,0321228480,inside active directory a system administrators guide,kouti sakari seitsonen mika,0.9638414552066021,0.9999993959377372
+indoo.com,0321256190,windows system programming,hart johnson m,0.9361375021708288,0.9999797359152073
+ecampus.com,1578702763,windows server 20032000 terminal server solutions implementing windows terminal services and citrix metaframe presentation server 30,mathers todd w,0.9638414552066021,0.999999995448297
+a1books,0321174038,net compact framework programming with c,yao paul durant david,0.9490805663451509,0.9999243048405827
+ecampus.com,0321174046,net compact framework programming with visual basic net,yao paul durant david,0.9638414552066021,0.9999957216486014
+a1books,0321197887,building solutions with the microsoft net compact framework architecture and best practices for mobile development,fox dan box jon,0.9490805663451509,0.9991969175282113
+ecampus.com,0321213343,managing windows with vbscript and wmi,jones don,0.9638414552066021,0.9999999999965326
+a1books,0201734117,essential net volume i the common language runtime,box don sells chris,0.9490805663451509,0.9999640727033485
+bargainbookstores.com,0201770180,programming in the net environment,damien watkins mark hammond brad abrams,0.9871913281558565,0.9765022005740337
+heroic image,0201708523,developing applications with visual studio net,grimes richard,0.982659614601723,0.9990099736001453
+a1books,0201616211,inside active directory a system administratorandaposs guide,kouti sakari seitsonen mika,0.9490805663451509,0.9844809637356641
+ecampus.com,0735711925,inside citrix metaframe xp a system administrators guide to citrix metaframe xp18 and windows terminal services,harwood ted,0.9638414552066021,0.9999999430830037
+beagle books,0201703106,win32 system programming a windowsr 2000 application developers guide 2nd edition,hart johnson m,0.9899478121250491,0.9999320420019507
+a1books,020170238X,debugging windows programs strategies tools and techniques for visual c programmers,mckay everett n woodring mike,0.9490805663451509,0.9846159687318367
+thomas e franklin,0201615754,developing applications using outlook 2000 cdo exchange and visual basic,piemonte raffaele jamison scott,0.8945688155376568,0.9952230452828652
+indoo.com,0201604426,programming windows security,brown keith,0.9361375021708288,0.9995160619418513
+george cross books,0201695898,atl internals,rector brent sells chris,0.949047490179862,0.9996045010258003
+balkanika online,0201379368,essential wininet developing applications using the windows internet api with ras isapi asp com,skonnard aaron,0.9610325343287897,0.999079378756412
+indoo.com,0201325810,designing applications with msmq message queuing for developers,dickman alan,0.9361375021708288,0.999170396973624
+indoo.com,0201633582,mfc programming,feuer alan r,0.9361375021708288,0.9560476216436855
+beagle books,0201442345,multithreading applications in win32 the complete guide to threads,beveridge jim wiener robert,0.9899478121250491,0.9913168563532789
+govind garg,0201634929,win32 programming addisonwesley advanced windows series,brent e rector joseph m newcomer,0.9695594650791933,0.9985514873262427
+>> midwest book company <<,0201407876,the lotus notes idea book,kovel jeff quirk kent gabin jay,0.9981867046154843,0.9959083057910316
+books enterprise,0201407213,mfc internals inside the microsoft foundation class architecture,shepherd george wingo scott,0.9513626266187286,0.9513626266187286
+a1books,0201608359,dos internals,chappell geoff,0.9490805663451509,0.6661394245831221
+gotbooks,0201632187,dos and windows protected mode programming with dos extenders in c the andrew schulman programming series,al williams,0.9696352479476626,0.9859123578820097
+a2zbooks,0201608375,writing msdos device drivers 2nd,lai robert s,0.9594279279660275,0.9924022568580655
+allenac,0321263545,distributed systems concepts and design,coulouris george dollimore jean kindberg tim,0.9957289548458453,0.9999808486699137
+ashleyjohnson,032131283X,principles of concurrent and distributed programming 2nd edition prenticehall international series in computer science,benari m,0.9730246431872029,0.9999630831982006
+economy books,0201796449,distributed computing principles and applications,liu meiling l liu meiling,0.9917459627113042,0.9939069896357609
+"reader's corner, inc.",0201730464,developing distributed and ecommerce applications,ince darrel,0.9251281159693023,0.9994363168127185
+"books in the city, inc.",0201619180,distributed systemsconceptsdesign,coulouris,0.9834108132408496,0.9859286780180051
+collegebooksdirect.com,0201498383,distributed operating systems algorithms,chow randy johnson theodore,0.9674708560053913,0.9797455935814338
+the e,0201795256,c network programming systematic reuse with ace and frameworks,schmidt douglas c huston stephen d,0.9959742144677067,0.9999442591229947
+quartermelon,0201784726,javatm message service api tutorial and reference messaging for the j2eetm platform,hapner mark burridge rich sharma rahul,0.9595316091280166,0.9067110377691561
+the e,0201710374,java network programming and distributed computing,reilly david reilly michael,0.9959742144677067,0.9974468787212827
+bookbyte / norwest textbooks,0201711028,programming open service gateways with java embedded server technology by chen,chen kirk gong li,0.9592849983398527,0.9976801721171994
+jenson online,0201634465,essential com,box don,0.9985836213954543,0.9985836213954543
+david's books,0321227239,troubleshooting linux firewalls,shinn michael shinn scott,0.922631749404391,0.999999443382776
+a1books,0321194330,how to break software security,whittaker james a thompson herbert h,0.9490805663451509,0.9951169893931247
+textbookxdotcom,0321444426,the art of software security assessment identifying and avoiding software vulnerabilities,dowd mark mcdonald john,0.8741329618647772,0.9993134549751445
+bookbuyers online,0321304861,the art of software security testing identifying software security flaws symantec press,chris wysopal lucas nelson dino dai zovi elfriede dustin,0.9420589855487252,0.9816205239375536
+powell's  books,0321437292,innovation games creating breakthrough,hohmann luke,0.9620380428577028,0.9999999900255293
+caiman,0321426428,own your spacekeep data and yourself safe,mccarthy linda,0.943724153191377,0.9999999945962865
+best bargain books,0321349946,scts symantec certified technical specialist small business security study guide,nik alston mike chapple kirk hausman,0.9843626994319237,0.9974134744448829
+ecampus.com,0321320735,cryptography in the database the last line of defense,kenan kevin,0.9638414552066021,0.9999998042297301
+ecampus.com,0321349962,extrusion detection security monitoring for internal intrusions,bejtlich richard,0.9638414552066021,0.9999999999935933
+a1books,0321369440,how to break web software functional and security testing of web applications and web services,andrews mike whittaker james a,0.9490805663451509,0.9999991909778737
+a1books,0321240693,real digital forensics computer security and incident response,jones keith j bejtlich richard rose curtis w,0.9490805663451509,0.9998293115274292
+ecampus.com,0321294319,rootkits subverting the windows kernel,hoglund greg butler jamie,0.9638414552066021,0.9999974050402244
+ecampus.com,0321335724,secure coding in c and c,seacord robert,0.9638414552066021,0.9999993625326715
+reuben goldberg books,0321349954,securing storage a practical guide to san and nas security,dwivedi himanshu,0.9999999924987842,0.9999999924987842
+textbookxdotcom,0321418700,software security library boxed set the,viega john hoglund greg mcgraw gary,0.8741329618647772,0.9955137976049961
+ecampus.com,0321356705,software security building security in,mcgraw gary,0.9638414552066021,0.9999999999081945
+"pacific book exchange, llc",0321356411,the symantec guide to home internet security,conrymurray andrew weafer vincent,0.9856302059707175,0.9999997489473653
+bigcat books,0321228359,the net developers guide to windows security,brown keith,0.9999999275564092,0.9999999275564092
+bargainbookstores.com,0321304543,the art of computer virus research and defense symantec press,peter szor,0.9871913281558565,0.9998543420489271
+a novel idea bookstore,0321304519,the executive guide to information security threats challenges and solutions,egan mark mather tim,0.999999591508952,0.999999591508952
+powell's  books,0321268172,file system forensics analysis,carrier brian,0.9620380428577028,0.9999999428333383
+readmate,020163497X,forensic discovery,farmer dan venema wietse,0.9967164857898034,0.9999936615144461
+indoo.com,0321247442,introduction to computer security,bishop matt,0.9361375021708288,0.9998936775156678
+r d greenberg,0321304527,mapping security the corporate security sourcebook for todays global economy,patterson tom blue scott gleeson,0.9999223224337184,0.9999223224337184
+ecampus.com,0321224094,privacy what developers and it professionals should know,cannon j c,0.9638414552066021,0.9999897134952861
+ecampus.com,0321246772,the tao of network security monitoring beyond intrusion detection,bejtlich richard,0.9638414552066021,0.9999998948646851
+ecampus.com,0321305019,windows server 2003 security a technical reference,bragg roberta,0.9638414552066021,0.9999999310717219
+"pacific book exchange, llc",0321197674,defend it security by example,gupta ajay laliberte scott,0.9856302059707175,0.9995785963614291
+indoo.com,0321180615,essential check pointtm firewall1r ng an installation configuration and troubleshooting guide,welchabernathy dameon d,0.9361375021708288,0.9999999976636476
+ecampus.com,0201786958,exploiting software how to break code,hoglund greg mcgraw gary,0.9638414552066021,0.9999997595210334
+a1books,0321136209,real 80211 security wifi protected access and 80211i,edney jon arbaugh william a,0.9490805663451509,0.9999233198518089
+a1books,0321202171,wifoo the secrets of wireless hacking,vladimirov andrew gavrilenko konstantin v mikhailovsky andrei a,0.9490805663451509,0.9997518102548271
+enjoystudy,0201440997,computer security art and science,bishop matt,0.9891065043346182,0.9999734532212713
+title wave books,020163466X,firewalls and internet security repell,cheswick william r,0.9977440816502174,0.9932024717466331
+ecampus.com,0321108957,honeypots tracking hackers,spitzner lance,0.9638414552066021,0.9999410859047105
+ecampus.com,0201787911,inside java 2 platform security architecture api design and implementation,gong li ellison gary dageforde mary,0.9638414552066021,0.9972097269387671
+a1books,0672323915,understanding pki concepts standards and deployment considerations,adams carlisle lloyd steve,0.9490805663451509,0.9999896499392597
+ecampus.com,0201761769,web hacking attacks and defense,mcclure stuart shah saumil shah shreeraj,0.9638414552066021,0.9993649035399769
+ecampus.com,0201615991,authentication from passwords to public keys,smith richard e,0.9638414552066021,0.9998934640803282
+ecampus.com,020172152X,building secure software how to avoid security problems the right way,viega john mcgraw gary,0.9638414552066021,0.999617012955755
+a1books,0201707195,computer forensics incident response essentials,kruse warren g heiser jay g,0.9490805663451509,0.9998689663906521
+ecampus.com,0201719568,hack itsecurity through penetration testing security through penetration testing,klevinsky t j laliberte scott gupta ajay,0.9638414552066021,0.9815422797718873
+best bargain books,020173723X,the cert guide to system and network security practices,julia h allen,0.9843626994319237,0.996430070194471
+russell books,0201616475,cryptography decrypted,mel hx burnett doris baker doris m,0.9853204245265639,0.949003957197536
+powell's  books,0201675161,inside internet security what hackers,crume jeff,0.9620380428577028,0.9999999959418011
+powell's  books,0201674718,modelling analysis of security protoco,ryan peter,0.9620380428577028,0.9315170414457612
+indoo.com,0201615983,ssl and tls designing and building secure systems,rescorla eric,0.9361375021708288,0.9999991990534207
+a1books,0201702096,virtual private networks technologies and solutions,yuan ruixi strayer w timothy,0.9490805663451509,0.9710079746521679
+nationwide book traders,0201711141,whitehat security arsenal tackling the threats,rubin aviel d,0.9774366863363135,0.9999805737477914
+college book service,0201433176,process of network security designing and managing a safe network pb 2000,wadlow thomas a,0.9461371999234421,0.9986295637535453
+gotbooks,0201309807,digital certificates applied internet security,jalal feghhi peter williams,0.9696352479476626,0.9921304778682368
+"the book cellar, llc",0201433036,information warfare security,denning dorothy e,0.9563078875736838,0.9939772573286285
+crazy ladies bookshop,0201379244,kerberos a network authentication system,tung brian,0.9988792390601554,0.9988792390601554
+betterworld.com,0201308207,internet besieged,dorothy e denning peter j denning,0.9717390435067395,0.9870833896722155
+dixieland books,0201634899,web security a stepbystep reference guide,stein lincoln d,0.9991171165868508,0.9999292344191423
+books from california,0201530678,computers under attack intruders worms and viruses,peter j denning,0.9996397146592437,0.9999031205612235
+a1books,0321418492,computer networking complete package,kurose james f ross keith w,0.9490805663451509,0.8523035653875563
+allenac,0321263588,computer networking and the internet,halsall fred,0.9957289548458453,0.9999999940238211
+enjoystudy,0321227352,computer networking a topdown approach featuring the internet 3rd edition,kurose james f ross keith w,0.9891065043346182,0.9992529391874638
+proservice,0201781344,mastering networks an internet lab manual,liebeherr jorg el zarki magda,0.9891092523830688,0.9739781632362137
+ham books,0201398184,multimedia communications applications networks protocols and standards,halsall fred,0.993905549607514,0.9999964292566441
+a1books,0321427610,telecommunications essentials second edition the complete global source,goleniewski lillian jarrett kitty wilson,0.9490805663451509,0.9998857573009219
+a1books,0201738279,broadband internet connections a userandaposs guide to dsl and cable,smith roderick w,0.9490805663451509,0.9973360251520391
+a1books,0201719363,quality web systems performance security and usability,dustin elfriede rashka jeff mcdiarmid douglas,0.9490805663451509,0.9226463906191417
+ecampus.com,0201760320,telecommunication essentials the complete global reference source to communications fundamentals data networking and the internet and nextgeneration networks,goleniewski lillian,0.9638414552066021,0.9996705990214063
+frugal media,0672322161,understanding data communications 7th edition,gilbert held,0.9775148407064838,0.9954704291737433
+deepak sachdeva,0201634422,an engineering approach to computer networking,keshav,0.9093816811331471,0.9749865834196161
+beagle books,0201622173,windows internals the implementation of the windows operating environment the andrew schulman programming series,pietrek matt,0.9899478121250491,0.9998330237321288
+ecampus.com,0321168798,ospf and isis choosing an igp for largescale networks,doyle jeff,0.9638414552066021,0.9999996585452291
+ecampus.com,032124544X,vpns illustrated tunnels vpns and ipsec,snader jon,0.9638414552066021,0.9999967986718609
+jr trading/bookjoint,0321218736,hightech crimes revealed cyberwar stories from the digital front,branigan steven,0.9413532065925487,0.9999999981209033
+ecampus.com,0321127005,practical bgp,white russ mcpherson danny sangli srihari,0.9638414552066021,0.9994643999057671
+ecampus.com,0321336437,protect your windows network from perimeter to data,johansson jesper m riley steve,0.9638414552066021,0.9999927378605596
+indoo.com,0321262514,storage virtualization technologies for simplifying data storage and management,clark tom,0.9361375021708288,0.9999999938694422
+indoo.com,0321200985,windows forensics and incident recovery,carvey harlan,0.9361375021708288,0.9999999764804742
+scholar's book outlet,032112698X,inside windows storage server storage technologies for windows 2000 windows server 2003 and beyond,naik dilip c,0.9229625170798769,0.9984403356747686
+bargainbookstores.com,0321166469,know your enemy learning about security threats 2nd edition,the honeynet project,0.9871913281558565,0.9999998378550542
+indoo.com,0321136500,designing storage area networks a practical reference for implementing fibre channel and ip sans,clark tom,0.9361375021708288,0.9999991586055664
+gunars store,0201752794,guide to forensic testimonyartprac presnt,bace,0.9343864615528049,0.7020625080003412
+paperbackshop-us,0321122445,juniper networks field guide and reference,garrett aviva drenan gary morris cr,0.9544419652741922,0.8822330971160923
+browns books,0201775921,juniper networking,thomas thomas m,0.9701051677262732,0.9006951211394317
+indoo.com,020178792X,ldap directories explained an introduction and analysis,arkills brian,0.9361375021708288,0.9999999205671829
+chanda's bargain books,0321133455,troubleshooting microsoft technologies the ultimate administrators repair manual,wolf chris,0.9999979660866355,0.9999979660866355
+flybookstore,0201604647,c network programming mastering complexity with ace and patterns,schmidt douglas c huston stephen d,0.9927126434311111,0.9984081064714803
+caiman,0201752778,ip sans os,clark tom,0.943724153191377,0.9992333355163278
+ecampus.com,0201746123,interdomain multicast routing practical juniper networks and cisco systems solutions,edwards brian m giuliano leonard a wright brian r,0.9638414552066021,0.9417558452533191
+a1books,0201702711,the practice of system and network administration,limoncelli thomas a hogan christine,0.9490805663451509,0.9987868297172864
+indoo.com,0201615711,network programming with perl,stein lincoln d,0.9361375021708288,0.8828007850213963
+bin around the world,0201309661,ospf complete implementation with cdrom,moy john t,0.9024956966882938,0.9024956966882938
+gildonbooks,0201710889,web protocols and practice http11 networking protocols caching and traffic measurement,krishnamurthy balachander rexford jennifer,0.9892467286279492,0.9877392064909639
+pioneer book,0201619105,ip telephony packetbased multimedia communications systems,hersent olivier,0.9826417007647495,0.9994680104852878
+fellowshipbooks.net,0201634481,interconnections bridges routers switches and internetworking protocols 2nd edition,perlman radia,0.9973618403864718,0.9999987212036352
+"noram international partners, llc",0201657589,ldap programming with javatm,rob weltman tony dahbura,0.98104125431579,0.997443761033763
+indoo.com,0201433192,network analysis and troubleshooting,haugdahl j scott,0.9361375021708288,0.999316555768189
+best bargain books,0201379511,bgp4 interdomain routing in the internet,stewart john w,0.9843626994319237,0.9953308257495636
+shop in your pajamas,0201379538,building switched networks multilayer switching qos ip multicast network policy and servicelevel agreements,black darryl p,0.9872768317306385,0.9990500594133248
+kelvin books,0201379562,connecting to the internet a practical guide about laninternet connectivity,ward andrew f,0.9926653897787362,0.9926653897787362
+mediasell (g.i.v. mbh),0201695847,designing wide area networks and internetworks a practical guide,marcus scott j,0.8670936362545075,0.8623403932000819
+bingo books,0201657600,implementing adsl,ginsburg david,0.9964634848895407,0.9995671370340853
+a1books,0201309793,multicast networking and applications,miller c kenneth,0.9490805663451509,0.9956656495405108
+antiquariat mehlig,0201634503,windows telephony programming,sells chris,0.999711680002083,0.999711680002083
+rhinoplus.net,0201184613,essentials of atm networks and services paperback by ibe oliver c,oliver c ibe,0.9980915359266441,0.9968369134359383
+frugal media corporation,0201633957,ipng internet protocol next generation,scott o bradner allison mankin,0.9923073786729354,0.9900927448823669
+textbooksnow,0201609991,network management,leinwand,0.8471070019780573,0.9654844968300179
+doug's top hat computer books,0201483262,btrieve complete a guide for developers and system administrators,kyle jim,0.994058031274807,0.9982822196845874
+beagle books,0201563339,gigabit networking,partridge craig,0.9899478121250491,0.9999941765606388
+best bargain books,0201563185,unixr system v network programming,stephen a rago,0.9843626994319237,0.9670457916165088
+economy books,0201357429,network management principles and practice,subramanian mani,0.9917459627113042,0.9998819828912997
+davids antiquariat + www.catch-a-book.de,0321205634,windows xp networking,cohen kackie daniels andrew,0.9818081289850177,0.9999992054112411
+usedbooks123,0201325705,nfs illustrated,callaghan brent,0.9777447692572879,0.9998466627440428
+caiman,0201776316,tcpip illus volumes 13 boxed,stevens w richard,0.943724153191377,0.9599803488953451
+a1books,0201615894,effective tcpip programming 44 tips to improve your network programs,snader jon c,0.9490805663451509,0.9999651733053476
+elizabeth brown books & collectibles,0201700530,ppp design implementation and debugging,carlson james,0.9979771702733738,0.9979771702733738
+browns books,0201634953,tcpip illustrated,stevens wrichard,0.9701051677262732,0.999952609719495
+happybook,020163354X,tcpip illustrated the implementation,stevens w richard wright gary r,0.9951261595446104,0.9998044172275552
+the e,0201633469,tcpip illustrated the protocols,stevens w richard,0.9959742144677067,0.9999994192610682
+proservice,0321330250,concepts of programming languages,sebesta robert w,0.9891092523830688,0.9999990989977492
+indoo.com,0201710129,comparative programming languages,clark robert g,0.9361375021708288,0.8535504273646294
+bookbyte / norwest textbooks,0201590654,programming languages concepts and constructs by sethi 2nd edition,sethi ravi,0.9592849983398527,0.9987790502137
+a1books,0321350170,the net developerandaposs guide to directory services programming,kaplan joe dunn ryan,0.9490805663451509,0.9998782509440041
+a1books,0321194454,net framework standard library annotated reference volume 2 networking library reflection library and xml library,abrams brad abrams tamara,0.9490805663451509,0.9999404674421212
+a1books,0321334884,visual studio tools for office using c with excel word outlook and infopath,carter eric lippert eric,0.9490805663451509,0.9999968176490547
+ecampus.com,0321411757,visual studio tools for office using vbnet with excel word outlookand infopath,carter eric lippert eric,0.9638414552066021,0.9999999762254387
+opoe-abe books,0321154894,net framework standard librarywcd,abrams,0.8269923235829199,0.9195823758544481
+powell's  books,0321154932,common language infrastructure annotated,miller jim,0.9620380428577028,0.9369061442952493
+international books,0201657880,programming pearls 2nd edition paperback,bentley jon,0.9854403854010918,0.9999426991523023
+caiman,0201895021,hist of programming languages,bergin thomas j,0.943724153191377,0.8314408158333809
+pro quo books,0201137445,functional programming practice and theory,bruce j maclennan,0.916836143215579,0.9114417700030158
+a1books,0321330242,absolute java with student resource disk,savitch walter,0.9490805663451509,0.9984880470281837
+by hand books,0201737337,objectoriented software development using java principles patterns and frameworks,jia xiaoping,0.965079827377253,0.9994516467308887
+bookbyte / norwest textbooks,1576760960,advanced java internet applications by gittleman 2nd edition,gittleman art,0.9592849983398527,0.9783049234796515
+collegebooksdirect.com,1576760596,computing with java programs objects graphics,gittleman art,0.9674708560053913,0.9982455004792906
+hay-on-wye booksellers2,157676074X,computing with java alternate edition programs objects graphics,gittleman art,0.9120778538538901,0.9120778538538901
+a1books,0201751585,java by dissection the essentials of java programming updated edition,pohl ira mcdowell charlie,0.9490805663451509,0.9508815147552477
+by hand books,0201726270,object oriented programming featuring graphical applications in java,laszlo michael j,0.965079827377253,0.9190876350515649
+tjeerd dijkstra,0201725932,on to java,winston patrick henry narasimhan sundar,0.9421076440113392,0.9421076440113392
+yesteryear books,0201343045,java gently for engineers and scientists programming principles explained,bishop judy bishop nigel,0.9951977884253269,0.9911144910508353
+powell's  books,1576760359,objects to components with the java,gittleman art,0.9620380428577028,0.9733461667628053
+bunches of books,0201612739,understanding objectoriented programming with java updated edition new java 2 coverage,timothy budd,0.9764145375182668,0.9950543446857735
+beagle books,0201398443,programming internet with java revised edition,ince darrel freeman adam,0.9899478121250491,0.9754063032342889
+a1books,0321490290,the javatm ee 5 tutorial,jendrock eric ball jennifer carson debbie evans ian fordin scott haase kim,0.9490805663451509,0.993197763484827
+a1books,0321334205,the javatm tutorial a short course on the basics,zakhour sharon hommel scott royal jacob rabinovitch isaac risser tom hoeber mark,0.9490805663451509,0.9403746804421829
+a1books,0321334612,eclipse rich client platform designing coding and packaging javatm applications,mcaffer jeff lemieux jeanmichel,0.9490805663451509,0.9999914486851201
+annex books inc,032142672X,eclipse building commercialquality plugins 2nd edition the eclipse series,clayberg eric rubel dan,0.9940762346955238,0.9999289323559726
+the e,0321349806,the java programming language,arnold ken gosling james holmes david,0.9959742144677067,0.9999890868373019
+quartermelon,0321304780,the javatm class libraries poster java 2 platform standard edition 50,chan patrick lee rosanna,0.9595316091280166,0.9999827047328065
+enjoystudy,0321246780,javatm language specification the 3rd edition java series,gosling james joy bill steele guy bracha gilad,0.9891065043346182,0.9999671274408275
+happybook,032133678X,java puzzlers traps pitfalls and corner cases,bloch joshua gafter neal,0.9951261595446104,0.9999902636716154
+a1books,0321205219,designing web services with the j2eetm 14 platform jaxrpc soap and xml technologies,singh inderjeet brydon sean murray greg ramachandran vijay violleau thierry stearns beth,0.9490805663451509,0.9984218076116926
+ecampus.com,0321228472,eclipse building commercialquality plugins,clayberg eric rubel dan,0.9638414552066021,0.9999548166439637
+ecampus.com,0321118898,enterprise java security building secure j2ee applications,pistoia marco nagaratnam nataraj koved larry nadalin anthony,0.9638414552066021,0.9838449257817169
+alphacraze.com,032124575X,the j2ee tutorial second edition,bodoff stephanie armstrong eric ball jennifer carson debbie bode,0.9939622650777792,0.9988641174130506
+caiman,0321294327,the java class libraries poster,chan patrick lee rosanna,0.943724153191377,0.9919631541294135
+ecampus.com,0321268385,official eclipse 30 faq,arthorne john laffra chris,0.9638414552066021,0.9997183878829321
+morgenstundt buch & kunst,0201728281,programmers guide to java certification a a comprehensive primer,rasmussen rolf mughal khalid azim,0.9794836375467192,0.9976076132225056
+best bargain books,0321256638,swt the standard widget toolkit volume 1 the eclipse series,steve northover mike wilson,0.9843626994319237,0.9847004709227757
+ecampus.com,0321136497,servlets and javaserver pages the j2ee technology web tier,falkner jayson jones kevin,0.9638414552066021,0.9927890020957478
+universalathenaeum,0201791668,building j2ee applications with the rational unified process,peter eeles kelli a houston wojtek kozaczynski kelli houston,0.9913071345325886,0.978279293012403
+bunches of books,0321213823,the java class libraries poster java 2 platform enterprise edition version 14 second edition,patrick chan rosanna lee,0.9764145375182668,0.9207514987099624
+ecampus.com,0201768100,the java developers almanac 14 examples and quick reference,chan patrick dang lanahn,0.9638414552066021,0.9857951562069026
+indoo.com,0201719541,javatm development on pdas building applications for pocket pc and palm devices,wildingmcbride daryl,0.9361375021708288,0.9946158528327801
+browns books,0672324083,java and jmx,kreger heather,0.9701051677262732,0.9936560296813084
+caiman,0201844540,performance analysis for java,joines stacy,0.943724153191377,0.9124398053353201
+powell's  books,0321197984,prog wireless devices with the java 2nd edition,riggs roger,0.9620380428577028,0.9911169640576011
+ecampus.com,0201616165,python programming with java class libraries a tutorial for building web and enterprise applications,hightower richard,0.9638414552066021,0.9637776316605438
+ecampus.com,0201753065,component development for the java platform,halloway stuart dabbs,0.9638414552066021,0.9964760459283805
+quartermelon,0201787903,designing enterprise applications with the j2eetm platform,singh inderjeet stearns beth johnson mark,0.9595316091280166,0.9348821391800665
+ecampus.com,0201775808,j2ee connector architecture and enterprise application integration,sharma rahul stearns beth ng tony,0.9638414552066021,0.9980477934792089
+books2anywhere.com,0321118871,the java class libraries poster,chan patrick lee rosanna,0.9812117673013818,0.9912460349762213
+beagle books,0201752808,the javatm developers almanac 14 volume 1 examples and quick reference 4th edition,chan patrick,0.9899478121250491,0.9999418364540777
+caiman,0672323427,micro javatm game developmen,verhovsek roman,0.943724153191377,0.9964354821738564
+ecampus.com,0201719622,building parsers with java,metsker steven john,0.9638414552066021,0.9906550423271945
+powell's  books,0201310058,effective java,bloch joshua,0.9620380428577028,0.9999972415069115
+the big book sale,0201709066,inside servlets serverside programming for the java platform,callaway dustin r,0.9332448580803305,0.9998119944883286
+indoo.com,0201725886,javatm look and feel design guidelines,sun microsystems inc,0.9361375021708288,0.9994862572193993
+these old books,0201703939,the javatm tutorial a short course on the basics 3rd edition,campione mary walrath kathy huml alison,0.8710743395403011,0.995607414569092
+ecampus.com,0201705028,the jndi api tutorial and reference building directoryenabled java applications,lee rosanna seligman scott,0.9638414552066021,0.9926173473955862
+snowlionbooks,0201703297,java card tm technology for smart cards architecture and programmers the java series,zhiqun chen,0.9841627764796669,0.9599813179829412
+indoo.com,0201716232,javatm class libraries poster enterprise edition v12 the,chan patricklee rosanna,0.9361375021708288,0.7392162974099906
+gotbooks,0201310082,javatm language specification 2nd edition,bill joy guy steele james gosling gilad bracha,0.9696352479476626,0.9905068480571342
+bookbyte / norwest textbooks,0201704331,java programming language by arnold 3rd edition,arnold ken gosling james holmes david,0.9592849983398527,0.9988941295753502
+tranceworks,0201616467,practical java programming language guide,haggar peter,0.9485729006417588,0.9999993915623082
+gotbooks,0201485524,the javatm class libraries supplement for the javatm 2 platform v12 parts a and bvolume 1 standard edition the java series,patrick chan rosanna lee douglas kramer doug kramer,0.9696352479476626,0.9964476341046491
+powell's  books,0201325772,java native interface programmers guide s,liang sheng,0.9620380428577028,0.9997886957549369
+miknik books,0201485583,the java tutorial continued the rest of the jdk,campione mary walrath kathy huml alison,0.9993603690137396,0.9997344401694171
+a1books,0201432943,the javatm virtual machine specification,lindholm tim yellin frank,0.9490805663451509,0.9806843891827601
+powell's  books,0201615630,mr bunnys big cup o java,egremont carlton,0.9620380428577028,0.9934837640943378
+www.bluecrestbooks.com,0201309726,programming for the javatm virtual machine,engel joshua,0.9589556562761657,0.9169808210093501
+a2zbooks,0201310031,the java class libraries javaapplet javaawt javabeans,chan patrick lee rosanna,0.9594279279660275,0.9716609521875887
+"pacific book exchange, llc",0201634562,the java faq,kanerva jonni,0.9856302059707175,0.9965614759971233
+htbook,0201713748,c by dissection the essentials of c programming,al kelley ira pohl,0.9420617618557785,0.961372884529022
+textbooksnow,0201702797,c for java programmers,muldner,0.8471070019780573,0.9742351036930942
+papamedia.com,0673999866,pointers on c,kenneth reek,0.9187548101791725,0.9277928440012518
+bookbyte / norwest textbooks,020158042X,on to c by winston,winston patrick henry,0.9592849983398527,0.9999876644829301
+economy books,0321108949,applied c techniques for building better software,romanik philip muntz amy,0.9917459627113042,0.9984712922183459
+ecampus.com,0201758814,windows programming with c,hansen henning,0.9638414552066021,0.9994032152815374
+ashcrest books,0201604612,the c puzzle book,feuer alan r,0.9887139710878784,0.9887139710878784
+the e,0201183994,a book on c programming in c,kelley al pohl ira,0.9959742144677067,0.9999750048057483
+bookmantra.com,0201845199,c programming faq frequently asked questions,summit steve,0.8747949968286283,0.9968267332232145
+heroic image,0805316701,a retargetable c compiler design and implementation,hanson david r fraser christopher w,0.982659614601723,0.8647482416706558
+zeeba books,0201179288,c traps and pitfalls,koenig andrew,0.9649862640708535,0.9999621418860174
+enjoystudy,0321330234,absolute c 2nd edition savitch series,savitch walter,0.9891065043346182,0.9998375565897782
+collegebooksdirect.com,0201787334,c by disection the essentials of c programming,pohl ira,0.9674708560053913,0.9998264966890288
+heroic image,0201722313,c programming with design patterns revealed,muldner tomasz,0.982659614601723,0.9996907664658579
+htbook,0201612461,c for java programmers,timothy budd,0.9420617618557785,0.9392405438228236
+"pacific book exchange, llc",0201580438,on to c,winston patrick henry,0.9856302059707175,0.9998153673873099
+recycle bookstore,0321412990,the c standard library extensions a tutorial and reference,becker pete,0.8365109126367992,0.9999998663090696
+ecampus.com,0321133544,beyond the c standard library an introduction to boost,karlsson bjorn,0.9638414552066021,0.9999909207478836
+the e,0321113586,c coding standards 101 rules guidelines and best practices,sutter herb alexandrescu andrei,0.9959742144677067,0.9999997115203294
+the e,0201721481,c primer,lippman stanley b moo barbara e lajoie josee lajoie jose,0.9959742144677067,0.9993783459339335
+a1books,0321227255,c template metaprogramming concepts tools and techniques from boost and beyond,abrahams david gurtovoy aleksey,0.9490805663451509,0.9999235663015994
+collegebooksdirect.com,0321268636,developing scalable series 40 applications a guide for java developers,yuan michael juntao sharp kevin,0.9674708560053913,0.9999715307678013
+international books,0321334876,effective c 55 specific ways to improve your programs and designs 3 rd edition paperback,meyers scott,0.9854403854010918,0.9999999999978975
+the e,0201760428,exceptional c style 40 new engineering puzzles programming problems and solutions,sutter herb,0.9959742144677067,0.9999999952890675
+a1books,0201734842,c templates the complete guide,vandevoorde david josuttis nicolai m,0.9490805663451509,0.9999588036982058
+a1books,0201729148,the boost graph library user guide and reference manual,siek jeremy g lee liequan lumsdaine andrew,0.9490805663451509,0.9369235561839127
+the e,020170434X,more exceptional c 40 new engineering puzzles programming problems and solutions,sutter herb,0.9959742144677067,0.9999999645186622
+happybook,0201749629,effective stl 50 specific ways to improve your use of the standard template library,meyers scott,0.9951261595446104,0.9999999999955447
+bookmantra.com,0201704315,modern c design generic programming and design patterns applied,alexandrescu andrei,0.8747949968286283,0.9999974037134226
+caiman,0201379236,stl tutorial ref gd 2e,musser david r,0.943724153191377,0.9973750450125488
+the e,020170353X,accelerated c practical programming by example,koenig andrew moo barbara e,0.9959742144677067,0.9999969916948823
+happybook,0201700735,the c programming language,stroustrup bjarne,0.9951261595446104,0.9999999979567069
+papamedia.com,0201379503,efficient c performance programming techniques,dov bulka david mayhew,0.9187548101791725,0.8579009978066332
+flybookstore,0201485184,essential c,lippman stanley b,0.9927126434311111,0.9999897372562531
+happybook,0201615622,exceptional c 47 engineering puzzles programming problems and solutions,sutter herb,0.9951261595446104,0.9999999868894476
+paperbackshop-us,0201309777,generative programming,czarnecki krzysztof eisenecker ulrich,0.9544419652741922,0.9998623509717679
+ecampus.com,0201183951,standard c iostreams and locales advanced programmers guide and reference,langer angelika kreft klaus,0.9638414552066021,0.9999302605001321
+caiman,0201309831,c faqs 2e,cline marshall p,0.943724153191377,0.9967199078718924
+aaabooks4u,0201395193,c for c programmers third edition 3rd edition,pohl ira,0.9706335575181717,0.9509462508725632
+the book bin,0201309939,c primer answer book,tondo clovis l leung bruce p,0.8787057085267038,0.9882571244197945
+the e,0201379260,the c standard library a tutorial and reference,josuttis nicolai m,0.9959742144677067,0.9999995865257931
+revaluation books,0201310155,effective c cd85 specific ways to improve your programs and designs,meyers scott,0.9567288371687277,0.8162953844020819
+beagle books,0201309564,generic programming and the stl using and extending the c standard template library,austern matthew h,0.9899478121250491,0.9815117626201699
+bookorders,0201824671,multiparadigm design for c,coplien james o,0.8752234942011917,0.9991462547506271
+collegebooksdirect.com,0201824701,c primer,lippman stanley b lajoie josee,0.9674708560053913,0.9981283704191771
+frugal media corporation,0201695871,c distilled a concise ansiiso reference and style guide,ira pohl,0.9923073786729354,0.9990292789406242
+er books,0201889544,the c programming language third edition,stroustrup bjarne,0.9999999913162961,0.9999999913162961
+bookbyte / norwest textbooks,0201895501,objectoriented programming using c by pohl 2nd edition,pohl ira,0.9592849983398527,0.9999678930055759
+powell's  books,0201423391,ruminations on c,koenig andrew,0.9620380428577028,0.9279196599069195
+flybookstore,0201834545,inside the c object model,lippman stanley b,0.9927126434311111,0.9995625878841409
+ecampus.com,0201633620,largescale c software design,lakos john,0.9638414552066021,0.9999638374696489
+enjoystudy,020163371X,more effective c 35 new ways to improve your programs and designs,meyers scott,0.9891065043346182,0.9999999999857632
+b2books,020151284X,designing and coding reusable c,martin d carroll margaret a ellis,0.9793433838575505,0.9594939657802461
+arundel books,0201543303,design and evolution of c the,stroustrup bjarne,0.9999812043231,0.9999812043231
+tranceworks,0201563827,c strategies and tactics,murray robert b,0.9485729006417588,0.9998265355940669
+out of print,0201548550,advanced c programming styles and idioms,coplien james o,0.9993260840484112,0.9993260840484112
+beagle books,0201563657,c programming style addisonwesley professional computing series,cargill tom,0.9899478121250491,0.9998206371085963
+beagle books,0201514591,the annotated c reference manual,ellis margaret a stroustrup bjarne,0.9899478121250491,0.9998990857285528
+spine and crown,0321245660,effective c 50 specific ways to improve your c,wagner bill,0.9999999999983211,0.9999999999983211
+collegebooksdirect.com,0321155726,from java to c,rowe glenn,0.9674708560053913,0.9996567904143765
+a1books,0321341384,net internationalization the developerandaposs guide to building global windows and web applications,smithferrier guy,0.9490805663451509,0.9999999003380527
+a1books,0321267966,windows forms 20 programming,sells chris weinhardt michael,0.9490805663451509,0.999987681114554
+powell's  books,0321160770,graphics prog with gdi,chand mahesh,0.9620380428577028,0.9993421472400786
+a1books,0321398661,advanced vbnet alternate with vbnet cdandaposs,irvine kip gaddis tony,0.9490805663451509,0.98179748151794
+ecampus.com,0201734958,building applications and components with visual basic net,pattison ted hummel joe,0.9638414552066021,0.9974251357475169
+best bargain books,0321169514,the visual basic net programming language microsoft net development series,paul vick,0.9843626994319237,0.9991842107717009
+caiman,0201707128,advd visual basic 6,curland matthew j,0.943724153191377,0.9902380002901924
+becauseyouread,0321462254,introduction to automata theory languages and computation isbn0321462254,hopcroft john e motwani rajeev ullman jeffrey d,0.9864189035166493,0.9728446748975589
+jefeducator,0321322215,languages and machines an introduction to the theory of computer science,sudkamp thomas a,0.9988752947998114,0.9999931321357397
+economy books,0201441241,introduction to automata theory languages and computation,hopcroft john e ullman jeffrey d ullman motwani rajeev rotwani hopcroft,0.9917459627113042,0.9976254770449541
+bookmantra.com,0201258285,the theory of computation,moret bernard m,0.8747949968286283,0.8647088330872509
+keen northwest,0805301437,theory of computation formal languages automata and complexity benjamincummings series in computer science,j glenn brookshear,0.8591263458835056,0.8591263458835056
+bingobooks2,020102988X,introduction to automata theory languages and computation,hopcroft john e,0.9805703712914879,0.8975901504423277
+browns books,0321410130,introduction to software engineering design,fox christopher,0.9701051677262732,0.9998643124899866
+proservice,0321313798,software engineering 75,sommerville ian,0.9891092523830688,0.9999999999753888
+indoo.com,0321269675,using uml software engineering with objects and components,stevens perdita,0.9361375021708288,0.9999629767778817
+economy books,0321210263,software engineering,sommerville ian,0.9917459627113042,0.9999999393358839
+enjoystudy,0201758652,software project management a realworld guide to success,henry joel,0.9891065043346182,0.99936944051166
+papamedia.com,0321154207,a handbook of software and systems engineering empirical observations laws and theories,albert endres dieter rombach,0.9187548101791725,0.9940164377740918
+bookbyte / norwest textbooks,0201722194,software design by budgen 2nd low price edition,budgen david,0.9592849983398527,0.9998702178640707
+govind garg,0201754541,software engineering processes with the upedu,pierre n robillard philippe kruchten,0.9695594650791933,0.9831432305004465
+collegebooksdirect.com,020174225X,projectbased software engineering an objectoriented approach,stiller evelyn leblanc cathie,0.9674708560053913,0.9925161195810437
+campus book store,0201701030,the engineering of software a technical guide for the individual,dick hamlet joe maybee,0.9828904028465082,0.9504362749850251
+collegebooksdirect.com,020139815X,software engineering,sommerville ian,0.9674708560053913,0.9999998923056015
+betterworld.com,0201648563,software engineering a programming approach 3rd edition,douglas bell,0.9717390435067395,0.9637032656372219
+indoo.com,0321166078,code quality the open source perspective,spinellis diomidis,0.9361375021708288,0.9999730248122247
+indoo.com,0321268776,collaboration explained facilitation skills for software project leaders,tabaka jean,0.9361375021708288,0.9999998554560439
+caiman,0321219767,aspect oriented software devel,filman robert e,0.943724153191377,0.9994847004646911
+readmate,0321305493,pspsm a selfimprovement process for software engineers sei series in software engineering,humphrey watts s,0.9967164857898034,0.9999954728037963
+cody books ltd,0321136195,practical software engineering analysis and design for the net platform addisonwesley object technology series,manassis enricos,0.9359623135438192,0.9998988238785413
+a1books,0321193679,professional software development shorter schedules higher quality products more successful projects enhanced careers,mcconnell steve,0.9490805663451509,0.9999940392505143
+flybookstore,0201799405,code readings,spinellis diomidis,0.9927126434311111,0.9999990449216127
+a1books,0201794276,extreme programming for web projects,wallace doug raggett isobel aufgang joel,0.9490805663451509,0.9023548379120576
+best bargain books,0201741172,software configuration management patterns effective teamwork practical integration,stephen p berczuk brad appleton,0.9843626994319237,0.9510335353525105
+best bargain books,0321113551,testing extreme programming,lisa crispin tip house,0.9843626994319237,0.9836853725226389
+betterworld.com,0201734095,architecturecentric software project management a practical guide,daniel j paulish,0.9717390435067395,0.9975153147008412
+ecampus.com,0201616408,extreme programming applied playing to win,auer ken miller roy,0.9638414552066021,0.995311479761593
+books2anywhere.com,0201734850,peer reviews in software,wiegers karl,0.9812117673013818,0.9993576470777797
+indoo.com,0201775751,request for proposal a guide to effective rfp development,porterroth bud,0.9361375021708288,0.9957909300639316
+nationwide book traders,0201738260,a requirements pattern succeeding in the internet economy,ferdinandi patricia l,0.9774366863363135,0.9998164649232144
+the library store,0201616262,cmm in practice processes for executing software projects at infosys,jalote pankaj,0.9999131322117991,0.9997939118007949
+happybook,020161586X,the practice of programming,kernighan brian w pike rob,0.9951261595446104,0.9999957388112749
+"textsearch, international (we recycle!)",0201760312,an introduction to objectoriented programming 3e 02,budd timothy,0.9739261385872481,0.9994757911791148
+caiman,0321159624,atl internals 2e,tavares christopher,0.943724153191377,0.9998945242718145
+a1books,0321482751,agile software development the cooperative game,cockburn alistair,0.9490805663451509,0.9999969658782191
+paperbackworld.de,020189551X,objectoriented analysis and design with applications,grady booch robert a maksimchuk michael w engel,0.9549181489456479,0.6661394245831221
+book dispensary,0321321308,agility and discipline made easy practices from openup and rup,kroll per macisaac bruce,0.9999043509562892,0.9999043509562892
+bookbyte / norwest textbooks,0321262204,art of clearcase deployment the secrets to successful implementation by buckley,buckley christian d pulsipher darren w,0.9592849983398527,0.9998140758524388
+buecherdackel,0201699478,crystal clear a humanpowered methodology for small teams,cockburn alistair,0.9661274124999623,0.999993579062629
+the library store,0321228103,open source net development programming with nant nunit ndoc and more,nantz brian,0.9999131322117991,0.9999999896068589
+happybook,0321213351,refactoring to patterns,kerievsky joshua,0.9951261595446104,0.999999988226354
+ecampus.com,0321321316,the software development edge essays on managing successful projects,marasco joe,0.9638414552066021,0.9999989648589048
+books down under,0201699710,the ace programmers guide practical design patterns for network and systems programming,huston stephen d johnson james syyid umar,0.9611328871406776,0.9996175753046824
+mayapapaya books,0201788918,mda distilled principles of modeldriven architecture,mellor stephen j scott kendall uhl axel weise dirk,0.9316865824951032,0.9973530016117996
+buecherdackel,0321197704,the rational unified process an introduction an introduction addisonwesley object technology series,kruchten philippe,0.9661274124999623,0.9999999732482026
+a1books,0201379430,object design roles responsibilities and collaborations,wirfsbrock rebecca mckean alan,0.9490805663451509,0.9998704147757667
+best bargain books,0201745763,pair programming illuminated,laurie williams robert kessler,0.9843626994319237,0.9697206119158589
+bargainbookstores.com,0201721848,patterns for effective use cases,paul bramble alistair cockburn andy pols steve adolph,0.9871913281558565,0.9946640207492338
+ecampus.com,0321166094,the rational unified process made easy a practitioners guide to the rup,kroll per kruchten philippe,0.9638414552066021,0.9999736533571031
+the e,0201699699,agile software development software through people,cockburn alistair,0.9959742144677067,0.9999654911636024
+books2anywhere.com,0201634600,design by contract,mitchell richard mckim jim,0.9812117673013818,0.9730188896643007
+indoo.com,0201734109,essence of objectoriented programming with javatm and uml the,wampler bruce e,0.9361375021708288,0.9961606160282177
+bookbyte / norwest textbooks,0201758202,improving software organizations from principles to practice by mathiassen,mathiassen lars priesheje jan ngwenyama ojelanki,0.9592849983398527,0.9329367664677153
+actinia bookstores,0201722291,performance solutions a practical guide to creating responsive scalable software 1st edition,smith connie u williams lloyd g smith connie williams lloyd,0.9188403563215364,0.7797246064406367
+the e,0201733862,software craftmanship the new imperative,mcbreen pete,0.9959742144677067,0.9999570501039088
+brillig books,0201731142,squeak a quick trip to objectland,korienek gene wrensch tom dechow doug,0.9240776463404169,0.9240776463404169
+a1books,0201615924,advanced use case modeling software systems,armour frank miller granville,0.9490805663451509,0.9998067322598292
+bookman-huntington,0201711613,the art of objects objectoriented design and architecture,lau yuntung,0.999222319992721,0.9991620724574167
+the e,0201325640,a practical guide to testing objectoriented software,mcgregor john d sykes david a,0.9959742144677067,0.998398768688362
+cobain llc,0201615932,requirements a unified approach the addisonwesley object technology series,dean leffingwell don widrig,0.9802907680950471,0.9977833012349859
+caiman,0201809389,testing objectoriented sy,binder robert,0.943724153191377,0.9999226563509831
+bookbyte / norwest textbooks,0201379457,com and corba side by side architectures strategies and implementations by pritchard,pritchard jason,0.9592849983398527,0.9999454952277433
+urbano libros,0201498375,doing hard time developing realtime systems with uml objects frameworks and patterns,douglass bruce powel,0.9988425306737734,0.9999093789001575
+boomer's books,0201309947,object technology a managers guide second edition,taylor david a,0.9999888106907193,0.9999888106907193
+powell's  books,0201498340,surviving object oriented projects,cockburn alistair,0.9620380428577028,0.9958604941163697
+powell's  books,0201544350,object oriented software eng,jacobson ivar,0.9620380428577028,0.9999996156465211
+economy books,9780072320862,computer organization,hamacher v carl vranesic zvonko g zakay safwat,0.9917459627113042,0.9923366600723199
+kayleighbug,9780072256758,hacking exposed computer forensics hacking exposed,davis chris philipp aaron cowen david,0.997947607325088,0.9998785232640551
+books down under,9780072255089,computer security lab manual,nestler vincent conklin wm arthur white gregory,0.9611328871406776,0.8705617395123932
+daylight books,9780072941494,the universal computer introducing computer science with multimedia,glenn d blank robert barnes edwin j kay,0.9426087481633346,0.9426087481633346
+california textbooks,9780072985559,computer education for teachers integrating technology into classroom teaching,sharp vicki f,0.9956817083704012,0.9995705512461339
+proservice,9780072976779,applied numerical methods with matlab for engineers and scientists,chapra steve,0.9891092523830688,0.992624421957502
+collegebooksdirect.com,9780073132907,applied numerical methods with matlab for engineers and scientists,chapra steven c,0.9674708560053913,0.9562760608104779
+a2zbooks,9780073195995,design for electrical and computer engineers theory concepts and practice,ford ralph coulston chris,0.9594279279660275,0.9809810376276681
+caiman,9780072231915,coreldraw 12,bain steve,0.943724153191377,0.9999993915075699
+blackwell online,9780072255096,principles of computer security security and beyond with cdrom,conklin wm arthur white gregory b cothren chuck,0.9692722999024121,0.9492899482459529
+textbooksnow,9780070004849,structure interpretation of computer programs,abelson,0.8471070019780573,0.9587992075524931
+reliable book service,9780072861983,computer architecture and organization,hayes john p,0.9350269396127823,0.9806570930668944
+bookbyte / norwest textbooks,9780072226966,incident response and computer forensics by prosise 2nd edition,prosise chris mandia kevin,0.9592849983398527,0.9979621864442686
+bookbyte / norwest textbooks,9780079136787,c programming for engineering and computer science by tan,tan hh andrew dorazio tim b,0.9592849983398527,0.9543839751972741
+a1books,9780071374736,verilog computerbased training course,zainalabedin navabi,0.9490805663451509,0.9058726758950465
+northeast books,9780072229233,the healthy pc preventive care and home remedies for your computer,holzman carey,0.9995737621810818,0.9997766390138042
+g.t.s.,9780072354676,introduction to engineering and the environment,edward s rubin,0.9813744958464486,0.8207685533697802
+wonder book,9780071357814,schaums outline of computer graphics,zhigang xiang roy a plastock,0.9859645021930933,0.984679849228687
+reliable book service,9780072467505,introduction to computing systems from bits and gates to c and beyond,patt yale patel sanjay j,0.9350269396127823,0.9986199846066133
+browns books,9780072844528,programming the web using visual studionet,mercer david,0.9701051677262732,0.9748288437941083
+proservice,9780073516677,computing essentials,oleary timothy j oleary linda i,0.9891092523830688,0.9968597104611518
+gotbooks,9780071345545,schaums outline of introduction to computer science,pauline cushman ramon matatoledo,0.9696352479476626,0.9840981529530637
+annex books inc,9780071362078,schaums outline of computer architecture,carter nick,0.9940762346955238,0.9960917806677705
+collegebooksdirect.com,9780071362856,schaums outline of theory and problems of computer networking,tittel ed,0.9674708560053913,0.9998426385204665
+better world books sale,9780072254648,computing today w student cd simnet concepts,timothy j oleary,0.9812327037457512,0.9157521788771736
+aamstar bookshop,9780078216770,introduction to help desk concepts and skills,sanderson susan,0.9999322573166366,0.9999322573166366
+caiman,9780072223224,mcsemcsa managing 2003wcd,desai anil,0.943724153191377,0.9999934436244923
+ecampus.com,9780072225662,mcsemcsa implementing a indows server 2003 network infrastructure study guide exam 70291,mccaw rory lind kenneth,0.9638414552066021,0.9986276726658049
+"verycoolbooks.com, inc.",9780072872156,simnet concepts an interactive student cdrom,triad interactive,0.9901058149972986,0.9960347143808477
+browns books,9780072930962,program the web,sosinsky barrie a,0.9701051677262732,0.9904876476214067
+a1books,9780072232325,mcsemcsa windows server 2003 environment study guide exam 70290 with microsoft windowsr server 2003 180day trial,anil desai,0.9490805663451509,0.9106643124424864
+paperbackshop-us,9780072232332,mcsemcsa implementing managing and maintaining,mccaw rory lind kenneth s,0.9544419652741922,0.9200329253624158
+d & a worldwide textbook service,9780073101569,numerical methods for engineers,chapra steve canale raymond,0.9992090420798798,0.9991416161399387
+indoo.com,9780072944822,simnet xpert combined standard edition release 31,triad interactive,0.9361375021708288,0.9693465699682844
+bookbyte / norwest textbooks,9780072397024,business data communications by forouzan,forouzan behrouz a,0.9592849983398527,0.9978606368408942
+a1books,9780072456103,windows 2000 computer based tutorial cdrom,kenneth laudon,0.9490805663451509,0.8605810044099417
+betterworld.com,9780072551877,simnet xpert combined pageout edition release 30,triad interactive,0.9717390435067395,0.9997793752791002
+betterworld.com,9780072944792,simnet xpert combined pageout edition release 31,triad interactive,0.9717390435067395,0.9990009990009991
+indoo.com,9780072944815,simnet xpert assessment pageout release 31,triad interactive,0.9361375021708288,0.9693465699682844
+indoo.com,9780072254631,simnet concepts release 15,triad interactive,0.9361375021708288,0.9729697938654005
+back alley books,9780072255539,the pc doctors fix it yourself guide,kingsleyhughes adrian,0.9686850476362713,0.9999893801389852
+revaluation books,9780072944846,simnet xpert assessment standard edition release 31,triad interactive,0.9567288371687277,0.6661394245831221
+studentbookstoreglobal,9780073212227,vector mechanics for engineers statics and dynamics,beer ferdinand p johnston jr e russell etc,0.966409955957046,0.9000895080041922
+northeast books,9780070379909,schaums outline of essential computer mathematics,lipschutz seymour,0.9995737621810818,0.9999999669400697
+allenac,9780071409278,complete digital design a comprehensive guide to digital electronics and computer system architecture,balch mark,0.9957289548458453,0.9999995783036744
+textbookxdotcom,9780073528328,computers in society,de palma paul,0.8741329618647772,0.9969807561994312
+hippo books,9780072478808,annual editions computers in education 0203 computers in education 10th ed,john hirschbuhl dwight bishop,0.9804917472820484,0.9879526593658816
+textbookxdotcom,9780073131146,computer accounting with quickbooks 2006,ulmer donna,0.8741329618647772,0.9878431885806512
+caiman,9780073288512,computer accounting,yacht carol,0.943724153191377,0.8399346136447727
+"borgasorus books, inc",9780072966213,simnet for office 2003 enterpriseblackboardwebct edition office suite,interactive triad,0.9260081820152489,0.6661394245831221
+caiman,9780072257045,capm certified assoc in pwcd,phillips joseph,0.943724153191377,0.9999998545599821
+bookmac,9780335216369,childrens literature and computer based teaching,unsworth len thomas angela simpson alyson m asha jennifer l,0.9747560504341745,0.9747560504341745
+paperbackshop-us,9780072922363,fundamentals of finite element analysis,hutton david v,0.9544419652741922,0.982331980352202
+the big book sale,9780072231243,mike meyers a guide to operating systems mike meyers a guide,meyers michael,0.9332448580803305,0.9692895711005795
+textbook recycle,9780073660967,programming logic for business,laura saret,0.9721068310513592,0.9983224871166488
+textbook brokers,9780072390841,product costing concepts and applications,ralph s polimeni,0.9806999617528838,0.9084693416168445
+ecampus.com,9780072847154,annual editions computers in education 0405,hirschbuhl john,0.9638414552066021,0.967672552267694
+bunches of books,9780072958706,simnet xpert release 4 combined standard edition,triad interactive,0.9764145375182668,0.9980087108292718
+bunches of books,9780072958713,simnet xpert release 4 combined pageout edition,triad interactive,0.9764145375182668,0.9960347143808477
+back alley books,9780072999389,computer accounting essentials using epeachtree,yacht carol crosson susan,0.9686850476362713,0.9722189731174062
+elder's bookstore,9780070087149,schaums outline of theory and problems of finite element analysis,buchanan george r,0.9999915175335672,0.9999915175335672
+bookbyte / norwest textbooks,9780072337389,oleary series microsoft word 2000 by oleary brief edition,oleary timothy j oleary linda i,0.9592849983398527,0.9968367757293697
+betterworld.com,9780072472509,the oleary series windows xp brief,timothy j oleary linda i oleary linda oleary,0.9717390435067395,0.9770277776182008
+caiman,9780072560312,programming the web using xhtm,lagerstrom larry randles,0.943724153191377,0.9886981282514163
+speedy books shipping from usa!,9780028005942,digital computer electronics,albert p malvino,0.9117254350148681,0.9365702414953423
+quartermelon,9780072834321,microsoft office access 2003,coulthard glen hutchinsonclifford sarah,0.9595316091280166,0.9750916913806839
+bunches of books,9780072834345,advantage series microsoft office access 2003 complete edition advantage,glen coulthard sarah hutchinsonclifford,0.9764145375182668,0.8606798713897262
+the big book sale,9780072226959,introduction to unix and linux,muster john,0.9332448580803305,0.9997911759047469
+browns books,9780072231199,mike meyers a guide to pc hardware,meyers michael,0.9701051677262732,0.9958594651137332
+powell's  books,9780072231236,a guide to operating systems lab manual,meyers michael,0.9620380428577028,0.9987377088277204
+indoo.com,9780072966237,simnet xpert release 4 enterprise edition office suite,triad interactive,0.9361375021708288,0.9843983377581704
+bookbyte / norwest textbooks,9780078227813,filing and computer database projects by stewart 2nd edition,stewart jeffrey r melesco nancy,0.9592849983398527,0.9054003406797156
+bookbyte / norwest textbooks,9780072978902,peter nortons introduction to computers by norton 6th edition,norton peter,0.9592849983398527,0.9999761457328918
+reliable book service,9780072466850,introduction to the finite element method,reddy jn,0.9350269396127823,0.9987648726173136
+a1books,9780072371925,the statistical imagination with free computer applications cdrom and student version spss 90,ferris j ritchey,0.9490805663451509,0.8707072861884837
+a1books,9780070137783,introduction to electrical and computer engineering,l richard carley,0.9490805663451509,0.8344879185659362
+caiman,9780072903621,experimental context for introduction to electrical and computer engineering,carley lrichard,0.943724153191377,0.9993572989130909
+great buy books,9780072337488,oleary series microsoft powerpoint 2000 introductory edition,timothy j oleary linda i oleary,0.9733008554435607,0.9954962677431944
+browns books,9780072374162,outlook 2000,oleary timothy j,0.9701051677262732,0.995660556926335
+frugal media corporation,9780072499544,oleary series ms office 2000 enhanced edition,timothy j oleary linda i oleary timothy oleary,0.9923073786729354,0.9966017684456953
+back alley books,9780072552584,it today with interactive companion 30,mcgrawhill,0.9686850476362713,0.9421231187522283
+hippo books,9780028043760,introduction to computers using window 98,norton,0.9804917472820484,0.9987685266625675
+back alley books,9780028044071,windows 2000 a tutorial to accompany peter nortons introduction to computers student edition with cdrom tutorial,norton peter,0.9686850476362713,0.9957880862907608
+wonder book,9780028048918,windows 98 complete course,goldhamer robert,0.9859645021930933,0.9592729121364629
+bookbyte / norwest textbooks,9780028048970,windows 2000 complete course by goldhamer,goldhamer robert,0.9592849983398527,0.9999890055958922
+"verycoolbooks.com, inc.",9780026648172,windows 98 the introductory program with 35 data disk,mcgrawhill,0.9901058149972986,0.9452071847194742
+caiman,9780072223194,mcse windows server 2003wcd,suhanovs dennis,0.943724153191377,0.998823622707819
+bookcloseouts.com,9780072225754,mike meyers mcsemcsa windows server 2003 active directory certification passport exam 70294,culp brian,0.8855726097199106,0.998799002160643
+quartermelon,9780072834307,microsoft office access 2003,coulthard glen hutchinsonclifford sarah,0.9595316091280166,0.9963926044678025
+the big book sale,9780072226324,introduction to pc hardware and troubleshooting,meyers michael,0.9332448580803305,0.9999752017404662
+browns books,9780072226331,security certification,white gregory b,0.9701051677262732,0.9991645519946649
+indoo.com,9780072971293,simnet for office 2003 standard edition,triad interactive,0.9361375021708288,0.9693465699682844
+a1books,9780072232172,mcse windows server 2003 active directory infrastructure study guide exam 70294 with windows server 2003 180day trial software,dennis suhanovs press certification certification press,0.9490805663451509,0.6472193372685145
+caiman,9780072255881,photoshop dreamweaver integr,smith colin,0.943724153191377,0.9999768487967517
+bradsbooks.com,9780072978476,peter nortons computing fundamentals 6e,norton peter,0.9661057268194527,0.9999969273165704
+campus book store,9780073273266,computer accounting with microsoft great plains 80 w software cd,carol yacht susan crosson,0.9828904028465082,0.9775960620767504
+caiman,9780073273273,computer accounting essentials with great plains,yacht carol crosson susan,0.943724153191377,0.8111319312023575
+textbookxdotcom,9780073131122,computer accounting essentials using quickbooks,yacht carol crosson susan,0.8741329618647772,0.8447893262253999
+indoo.com,9780072300413,computer concepts in econonomics,donna thompson,0.9361375021708288,0.8881842302218831
+"pacific book exchange, llc",9780072565850,microsoft xp handbook your guide to transitioning to office xp and windows xp,knight harry,0.9856302059707175,0.9999921805101148
+quartermelon,9780072843996,microsoft windows xp complete,haag stephen perry james t sosinsky barrie estevez efren,0.9595316091280166,0.9604620888606672
+great buy books,9780028055879,a professional series approach excel 2000 level 1 core student edition professional approach s,carole tobias,0.9733008554435607,0.9998195850707263
+bookbyte / norwest textbooks,9780028055909,word 2000 professional approach by hinkle short course,deborah hinkle,0.9592849983398527,0.9221916998836748
+back alley books,9780028055916,a professional approach series word 2000 level 2 expert student edition professional approach,hinkle deborah,0.9686850476362713,0.9995847285989933
+great buy books,9780028055923,a professional approach series word 2000 level 1 core student edition professional approach s,deborah hinkle,0.9733008554435607,0.9996863076342075
+samm44's used books,9780028056005,office 2000 professional approach,hinkle deborah,0.90762390834004,0.90762390834004
+powell's  books,9780072223255,windows server 2003 network study guide,huggins diana,0.9620380428577028,0.9972667503246105
+"borgasorus books, inc",9780072830767,iseries microsoft office access 2003 complete iseries,haag stephen perry james t,0.9260081820152489,0.9957576196339708
+quartermelon,9780072835564,microsoft office access 2003,oleary linda i,0.9595316091280166,0.9993162662070655
+quartermelon,9780072835595,microsoft access 2003,oleary timothy oleary linda,0.9595316091280166,0.9926653246067352
+caiman,9780072226225,windows server 2003,shimonski robert j,0.943724153191377,0.9997130459713549
+collegebooksdirect.com,9780072845501,programming the web using xml,pearlman ellen mullin eileen,0.9674708560053913,0.9438594976486252
+annex books inc,9780072226973,network security the complete reference,rhodesousley mark bragg roberta strassberg keith,0.9940762346955238,0.9954247714518077
+bookcloseouts.com,9780072227840,web security portable reference hack notes,shema mike,0.8855726097199106,0.9995448698273517
+northeast books,9780072227857,hacknotestm windows security portable reference,odea michael,0.9995737621810818,0.9985184427803857
+antiquariat kisch & co.,9780072227864,hacknotes linux and unix security portable reference a musthave resource for critical security information,dhanjani nitesh,0.96794061439403,0.9998983506228677
+opoe-abe books,9780072939200,micrsftoffice access brief2003wcd,oleary,0.8269923235829199,0.6793839278951128
+henry's biz books,9780072230611,windows server 2003 hacking exposed,scambray joel mcclure stuart,0.99591007005509,0.999759581442436
+bradsbooks.com,9780072230932,fundamentals of network security,maiwald eric,0.9661057268194527,0.9999920858892035
+opoe-abe books,9780072254914,advanced progvisbasicnetwcd,bradley,0.8269923235829199,0.8760504719859344
+caiman,9780072263848,java,schildt herbert,0.943724153191377,0.9999999044358354
+alphacraze.com,9780072263206,cwsp certified wireless security professional official study guide exam pw0200 second edition,carpenter tom moerschel grant dreger richard,0.9939622650777792,0.9969915537728747
+a1books,9780070259409,tsp handbook to accompany econometric models and economic forecasts by pindyck and rubenfeld,robert s pindyck daniel l rubinfeld bronwyn h hall sergio l schmukler,0.9490805663451509,0.7770624600745438
+indoo.com,9780072565089,bluej the interactive environment cd,rosenberg,0.9361375021708288,0.7801911181028629
+powell's  books,9780072224986,mcsa windows 2000 set 70 210 215 218,simpson alan,0.9620380428577028,0.9964256788437731
+bookbyte / norwest textbooks,9780072833430,microsoft windows xp by haag,haag stephen,0.9592849983398527,0.9984144218622337
+bookcloseouts.com,9780072227413,mike meyers certification passport security with cdrom,kay trevor,0.8855726097199106,0.99997510050809
+bookbyte / norwest textbooks,9780028049212,word 2000,norton peter,0.9592849983398527,0.9974415415936186
+bookbyte / norwest textbooks,9780028055886,excel 2000 a professional approach by tobias level 2 expert,tobias carole,0.9592849983398527,0.9892885264117527
+great buy books,9780028055893,a professional approach series access 2000 levels 1 and 2 core and expert student edition professional approach s,kathleen stewart,0.9733008554435607,0.9988528157695384
+hippo books,9780028055992,a professional approach series powerpoint 2000 levels 1 and 2 core expert student edition professional approach s,sharon anne fisherlarson margaret marple,0.9804917472820484,0.9998437881768618
+collegebooksdirect.com,9780078204616,office 2000 integrated applications a professional approach student edition,gleason joyce,0.9674708560053913,0.8934276835885793
+sheebook,9780072830613,iseries microsoft office access 2003 introductory,haag stephen perry james t wells merrill,0.9834151488530415,0.996061125231981
+paperbackshop-us,9780072225648,hacking linux exposed,hatch brian lee james kurtz george,0.9544419652741922,0.999464606991297
+caiman,9780072229240,intro to relational databwcd,allen christopher,0.943724153191377,0.9677116430099564
+a1books,9780072231182,mike meyersandapos a guide to managing and troubleshooting pcs lab manual mhcindas data series on material properties,michael meyers lloyd jeffries,0.9490805663451509,0.9325718762681173
+caiman,9780072231465,managing troubleshooting pcs,meyers michael,0.943724153191377,0.9751184844398771
+textbooksnow,9780072967791,computing concepts introductory wcd2872152,haag,0.8471070019780573,0.8004692967075547
+caiman,9780072253658,rhce red hat certified enginee,jang michael,0.943724153191377,0.9999997813424569
+a1books,9780072232196,mcse planning a windowsr server network infrastructure study guide exam 70293 with windowsr server 2003 180day trial software,diana huggins,0.9490805663451509,0.8698499490743091
+caiman,9780072232066,microsoft office access 2003,juarez jon carter john stewart kathleen,0.943724153191377,0.9728374770353078
+versandantiquariat robert a. mueller,9780072255607,mike meyers network guide to managing and troubleshooting networks,meyers michael,0.974699512241104,0.9772887742794851
+paperbackshop-us,9780072253603,sun certified programmer developer for java 2,sierra kathy bates bert,0.9544419652741922,0.9999767261499264
+bookcloseouts.com,9780072227765,microsoftr yukon new features,otey michael,0.8855726097199106,0.9999999988296113
+gildonbooks,9780072254280,oracle database 10g high availability with rac flashback and data guard osborne oracle press series,hart matthew jesse scott,0.9892467286279492,0.9998153636340651
+"the book den, abaa",9780072261943,expert oracle pl sql,hardman ron mclaughlin michael,0.9998951071522899,0.9998951071522899
+indoo.com,9780073304274,programming vbnet 2005 cd 180 day trial software,bradley,0.9361375021708288,0.7864569450050882
+a1books,9780072230666,oracle database 10g plsql programming,scott urman ron hardman michael mclaughlin,0.9490805663451509,0.997728252628372
+caiman,9780072263350,voice data communication handbook,bates regis bud gregory donald w,0.943724153191377,0.8126425316090322
+books2anywhere.com,9780072259605,oracle jdeveloper for forms plsql developers,koletzke peter mills duncan,0.9812117673013818,0.9999998425487885
+college book service,9780072500172,interactive computing series microsoft office 2000 enhanced ed text only,laudon kenneth,0.9461371999234421,0.7134798158699619
+caiman,9780072830583,microsoft office access 2003,haag stephen,0.943724153191377,0.9926349586656221
+proservice,9780072976755,fundamentals of thermalfluid sciences,cengel yunus a turner robert,0.9891092523830688,0.9920790028550744
+bookforyou,9780070089853,advanced strength and applied stress analysis,budynas richard g,0.9544725539701816,0.9761004709762542
+a1books,0123705924,reallife mda solving business problems with model driven architecture,guttman michael parodi john,0.9490805663451509,0.6838511164767271
+a1books,0123695139,fastsoa the way to use native xml technology to achieve service oriented architecture governance scalability and performance,cohen frank,0.9490805663451509,0.99642361707633
+a1books,0123705932,architecture and patterns for it service management resource planning and governance making shoes for the cobblerandaposs children,betz charles t,0.9490805663451509,0.9997520652034783
+alphacraze.com,1555583407,microsoft windows security fundamentals for windows 2003 sp1 and r2,clercq jan de grillenmeier guido,0.9939622650777792,0.9870862777406301
+caiman,0750681845,learning made simple basic computing,mcbride pk,0.943724153191377,0.9764633969265576
+quartermelon,0750681888,presentations with powerpoint learning made simple,stephen moira,0.9595316091280166,0.995284220359534
+quartermelon,075068187X,word processing with word learning made simple,brindley keith,0.9595316091280166,0.996463823420293
+quartermelon,0750681896,communicating with email and the internet learning made simple,mcbride peter,0.9595316091280166,0.9949475742147057
+movies with a smile,0750681861,databases with access learning made simple,stephen moira,0.9622533487988066,0.9989403902206633
+quartermelon,0750681853,spreadsheets with excel learning made simple,morris stephen,0.9595316091280166,0.9978388872515326
+browns books,0750667311,an an,combe colin,0.9701051677262732,0.9999451900114005
+allenac,0123695317,pattern recognition,sergios theodoridis konstantinos koutroumbas,0.9957289548458453,0.9998770887955023
+reliable book service,0127425039,grid computing the savvy managers guide,plaszczak pawel wellner richard,0.9350269396127823,0.9980481626454184
+annex books inc,1558608893,innovation happens elsewhere open source as business strategy,goldman ron gabriel richard p,0.9940762346955238,0.9986681984697441
+bobs books,075066455X,managing stakeholders in software development projects,mcmanus,0.957244454796714,0.9829609216479561
+alphacraze.com,0750663510,strategies for growth in smes the role of information and information sytems,levy margi powell philip,0.9939622650777792,0.9817526577745568
+sarl culture-factory,155558327X,physical security for it,erbschloe,0.90673166596953,0.9952907691952254
+a1books,0750661402,value creation from ebusiness models,wendy currie,0.9490805663451509,0.9971740253097503
+a1books,0120121603,advances in computers volume 60 information security advances in computers,marvin zelkowitz,0.9490805663451509,0.909548022250271
+a1books,0750677562,excel by example a microsoft excel cookbook for electronics engineers,kagan aubrey,0.9490805663451509,0.9999987811642329
+college book service,0750661410,the past and future of information systemshc 2004,andersen kim viborg,0.9461371999234421,0.9881972366863587
+a1books,0750658959,ebiz the anatomy of electronic business,geoffrey sampson,0.9490805663451509,0.9858758939787274
+a1books,1555582958,integrating wireless technology in the enterprise pdas blackberries and mobile devices,william wheeler,0.9490805663451509,0.9975041976276866
+browns books,0750658673,risk management in software development projects,mcmanus john,0.9701051677262732,0.9994496265014163
+bobs books,1558608222,from cobol to oop,knasmullermarkus,0.957244454796714,0.981257092407715
+quartermelon,0750661577,systems and project management may 2003 exam questions and answers,series edited by cima,0.9595316091280166,0.7725466195098255
+sarl culture-factory,1555582893,rapid value management for the business cost of ownership,andrew wigodsky,0.90673166596953,0.9293654799085026
+caiman,1558609172,semantics in business sys os,mccomb dave,0.943724153191377,0.9949802461187246
+powell's  books,1558609199,database modeling with ms visio for ente,halpin terry,0.9620380428577028,0.8309709784860483
+worldofbooks,1555583067,cybersecurity operations handbook,hancockbill,0.9338763795130411,0.8710062095397773
+movies with a smile,0750676566,the information systems security officers guide establishing and managing an information protection program,kovacich gerald,0.9622533487988066,0.9862689549739438
+justice book company,1558609164,business intelligence the savvy managers guide,loshin david,0.9853720406319916,0.9998941845960305
+bobs books,1555582605,computer systems performance evaluation and prediction,fortierpaul,0.957244454796714,0.9719581787910481
+bobs books,155558277X,call center operation design operation and maintenance,sharpduane,0.957244454796714,0.98797954734262
+davids antiquariat + www.catch-a-book.de,1558608168,modeling business objects with xml schema,daum berthold,0.9818081289850177,0.9998415357956377
+the book trader,1558609067,web services and serviceoriented architecture the savvy managers guide,barry douglas k,0.9999905793984076,0.9999905793984076
+sarl culture-factory,1558608915,data quality,jack olson,0.90673166596953,0.9645248394096014
+caiman,1558607587,business process change,harmon paul,0.943724153191377,0.9999911363076027
+"the bookman, inc.",1558608303,maintaining evolving successful commercial web sites managing change content customer relationships and site measurement,friedlein ashley,0.9470418618162177,0.9998408598740212
+"the bookman, inc.",155558280X,corporate portals empowered with xml and web services,guruge anura,0.9470418618162177,0.9652992855964666
+pavillion iv books,0750674741,enterprise information portals knowledge management,firestone joseph m,0.9685149154580194,0.9963539315484112
+powell's  books,1555582907,socially responsible it management,erbschloe michael,0.9620380428577028,0.9992361616208183
+powell's  books,1555582648,openvms with apache osu wasd,winston alan,0.9620380428577028,0.9910741088744178
+bobs books,155558263X,crm redefining customer relationship management,peeljeffrey,0.957244454796714,0.9883805758452607
+scholar's basement,1555582567,managing systems migrations and upgrades demystifying the technology puzzle,breakfield charles burkey roxanne,0.9168365370791703,0.9168365370791703
+quartermelon,0080439977,the key to prosperity in the third millennium selected papers from the 9th international conference on management of technology,edelstein khalil tarek lefebvre louis a,0.9595316091280166,0.7099387019638081
+bookbyte / norwest textbooks,012449983X,project management for the 21st century by lientz 3rd edition,lientz bennet p rea kathryn p,0.9592849983398527,0.9958102109564905
+caiman,1555582516,data quality os,redman thomas c,0.943724153191377,0.9996829551772045
+betterworld.com,0124499686,breakthrough technology project management 2e ebusiness solutions,bennet p lientz kathryn p rea,0.9717390435067395,0.9981739778899185
+bobs books,0124499775,start right in ebusiness a step by step guide to successful ebusiness implementation,lientzbennet,0.957244454796714,0.986498175553245
+universalathenaeum,0124499805,dynamic ebusiness implementation management how to effectively manage ebusiness implementation ebusiness solutions,bennet p lientz kathryn p rea,0.9913071345325886,0.9808598040361985
+bailey's books,0750697016,fifth generation management dynamic teaming virtual enterprising and knowledge networking,savage charles m,0.9992825675280252,0.9992825675280252
+lorraine leaton,0750698004,windows 95 clear simple clear simple,mcbride p k,0.9916475700781956,0.9916475700781956
+powell's  books,1558608729,stochastic local search foundations ap,hoos holger,0.9620380428577028,0.9842273587541875
+sunmark store,1558609326,knowledge representation and reasoning,brachman ronald levesque hector,0.935476004547217,0.9700168557292297
+bobs books,1558608567,automated planning theory and practice,ghallab,0.957244454796714,0.9492995541293721
+browns books,1558608907,constraint processing,dechter rina,0.9701051677262732,0.9997785142154199
+bobs books,1558607609,applying knowledge management techniques for building corporate memories,watson,0.957244454796714,0.9791898774693621
+powell's  books,1558607978,evolutionary computation in bioinformati,fogel gary b,0.9620380428577028,0.9298320573953494
+moonxscape,1558607838,blondie24 playing at the edge of ai the morgan kaufmann series in artificial intelligence,fogel david b,0.9960920182311694,0.9996855778322827
+changing hands bookstore,1558606734,creative evolutionary systems,bentley peter j corne david w,0.9425814937926892,0.9425814937926892
+revaluation books,155860734X,foundations of genetic algorithms 6 foga6 the morgan kaufmann series in artificial intelligence,worth martin william spears worthy n martin,0.9567288371687277,0.7629552244496103
+a1books,1558605959,swarm intelligence,james kennedy russell c eberhart,0.9490805663451509,0.9187539209691724
+der buchfreund,1558606378,illustrating evolutionary computation with mathematica,jacob christian,0.9920421899430821,0.9987832942642096
+reliable book service,1558604677,artificial intelligence a new synthesis,nilsson nils j,0.9350269396127823,0.9989531552070278
+browns books,155860510X,genetic programming,banzhaf wolfgang,0.9701051677262732,0.9990291954676365
+caiman,1558604626,applying casebased reaso,watson ian,0.943724153191377,0.990023203550178
+quartermelon,1558607358,foundations of analog and digital electronic circuits,agarwal anant lang jeffrey,0.9595316091280166,0.9979135907537222
+caiman,0123694590,computers as components,wolf wayne,0.943724153191377,0.999962645972435
+international books,1558609105,virtual machines versatile platforms for systems and processes softcover,jim smith ravi nair,0.9854403854010918,0.9952629921290217
+reliable book service,0120884763,network processor design issues and practices,franklin mark a,0.9350269396127823,0.8092025532456864
+economy books,1558606041,computer organization and design the hardwaresoftware interface,patterson david a hennessy john l,0.9917459627113042,0.9999994331403388
+alphacraze.com,1558608745,arm system developers guide designing and optimizing system software the morgan kaufmann series in computer architecture and design,sloss andrew symes dominic wright chris,0.9939622650777792,0.9919672326879108
+htbook,0122007514,principles and practices of interconnection networks,william james dally brian patrick towles,0.9420617618557785,0.9885232625437037
+worldofbooks,0121981576,network processor design vol 2,crowleypatrick,0.9338763795130411,0.807450674418617
+happybook,1558609334,the grid blueprint for a new computing infrastructure,foster ian,0.9951261595446104,0.9976605695513548
+reliable book service,1558607986,digital arithmetic,ercegovac milos d lang tomas,0.9350269396127823,0.9614549802629756
+browns books,1558608710,the the,dongarra jj,0.9701051677262732,0.8283384452338418
+bobs books,1558608753,network processor design issues and practices volume 1,crowleypatrick franklinmark a,0.957244454796714,0.9050041255669453
+powell's  books,1558608524,interconnection networks an eng approach,duato jose,0.9620380428577028,0.9061400915498168
+economy books,1558605967,computer architecture a quantitative approach,hennessey john patterson david a,0.9917459627113042,0.9989723936404133
+caiman,0124343708,selfchecking faulttolerant,lala parag k,0.943724153191377,0.9577820200572313
+powell's  books,155860636X,skew tolerant circuit design,harris david,0.9620380428577028,0.9752452081107044
+a1books,1558605398,readings in computer architecture,mark d hill,0.9490805663451509,0.8281074738221537
+caiman,1558605576,logical effort,sutherland ivan e,0.943724153191377,0.8713509607674546
+economy books,1558603433,parallel computer architecture a hardwaresoftware approach,culler david e gupta anoop singh jaswinder pal,0.9917459627113042,0.9962488108073118
+a1books,0123229804,cache memory book the,handy jim,0.9490805663451509,0.9879157442856824
+quartermelon,1558602976,the mips programmers handbook,farquhar erin bunce philip j bunce phillip,0.9595316091280166,0.853850422820814
+gotbooks,0121028208,the system engineers handbook the morgan kaufmann series in computer architecture and design,john black,0.9696352479476626,0.9641110785689664
+b-line books,1558601368,cache and memory hierarchy a performance directed approach,przybylski steven a,0.9998956834023688,0.9998956834023688
+a1books,0123694736,programming with quartz 2d and pdf graphics in mac os x the morgan kaufmann series in computer graphics,david gelphman bunny laden,0.9490805663451509,0.9929402773900873
+browns books,0125852630,high dynamic range imaging,reinhard erik,0.9701051677262732,0.9850145814246544
+caiman,0120884828,comp maya programming volu os,gould david,0.943724153191377,0.9997563783557568
+caiman,0120887932,mel scripting for maya animato,wilkins mark r,0.943724153191377,0.9989513979289436
+missionbooks,1558606599,advanced graphics programming using opengl,mcreynolds tom blythe david,0.9870740235391646,0.9974627782786111
+reliable book service,1558608613,digital geometry geometric methods for digital picture analysis,klette reinhard rosenfeld azriel,0.9350269396127823,0.9987250656362335
+"the bookman, inc.",1558608532,realtime shader programming covering directx 90,fosner ron,0.9470418618162177,0.9615952015936391
+"the bookman, inc.",1558608354,complete maya programming an extensive guide to mel and the c api,gould david ad,0.9470418618162177,0.9989923542486964
+powell's  books,1558607927,digital video hdtv algorithms interf,poynton charles,0.9620380428577028,0.9992403245634098
+browns books,1558608486,texturing and modeling,ebert david s,0.9701051677262732,0.9677422764646764
+reliable book service,1558605940,geometric tools for computer graphics,schneider philip j eberly david h,0.9350269396127823,0.9978686228465549
+"the bookman, inc.",1558603530,understanding virtual reality interface application and design,sherman william r craig alan b,0.9470418618162177,0.976853148845436
+caiman,1558608389,level of detail for 3d graphic,luebke david p,0.943724153191377,0.9702476070479935
+a1books,1558603549,pyramid algorithms a dynamic programming approach to curves and surfaces for geometric modeling,ron goldman,0.9490805663451509,0.9599813179829412
+"the bookman, inc.",1558608605,jim blinns corner notation notation notation,blinn jim,0.9470418618162177,0.9983145422420269
+"the bookman, inc.",1558607870,nonphotorealistic computer graphics modeling rendering and animation,strothotte thomas schlechtweg stefan,0.9470418618162177,0.980170984590849
+a1books,1558604464,subdivision methods for geometric design a constructive approach,warren joe weimer henrik,0.9490805663451509,0.9403876895005536
+ashleyjohnson,1558607374,curves and surfaces for cagd a practical guide the morgan kaufmann series in computer graphics,farin gerald,0.9730246431872029,0.9951101528686526
+browns books,1558605797,computer animation,parent richard,0.9701051677262732,0.9992634164001168
+title wave books,0122937856,visual effects in a digital world a co,goulekas karen e,0.9977440816502174,0.9911616509324964
+browns books,1558606696,an an,rogers david f,0.9701051677262732,0.9993783808029875
+monk cabin books,1558606181,advanced renderman creating cgi for motion pictures the morgan kaufmann series in computer graphics,anthony a apodaca larry gritz,0.9851425975988896,0.9845813392678224
+a1books,0121339602,the art and science of digital compositing,brinkman ron,0.9490805663451509,0.99855496952522
+recycle bookstore,1558604553,jim blinns corner dirty pixels,blinn jim,0.8365109126367992,0.9980329527368766
+harbor book cellar,1558603751,wavelets for computer graphics theory and applications,stollnitz eric j derose tony d salesin david h,0.9461570465492473,0.8969516414147733
+bobs books,1558603875,jim blinns corner a trip down the graphics pipeline morgan,blinn,0.957244454796714,0.9811941558535141
+caiman,1558604006,intro to splines for use in co,bartels richard h,0.943724153191377,0.8424559918319846
+chamblin bookmine,1558602763,principles of digital image synthesis 2 volume set,glassner andrew s,0.9578419729447981,0.9611126267368101
+goldyne,1558601066,making them move mechanics control and animation of articulated figures,badler norman i,0.9694933515731728,0.9920641220327118
+bookfargo c/o christopher roman,0122861604,an introduction to ray tracing the morgan kaufmann series in computer graphics,glassner andrew s,0.9561174492401846,0.9426803475874685
+caiman,0124477518,ipv6 core protocols implementa,li qing,0.943724153191377,0.9958384892379817
+alphacraze.com,0120884224,gmpls architecture and applications the morgan kaufmann series in networking,farrel adrian bryskin igor,0.9939622650777792,0.9980160017058282
+alphacraze.com,0123694043,globus toolkit 4 programming java services the elsevier series in grid computing,sotomayor borja childers lisa,0.9939622650777792,0.9989616412406601
+computer book works,0123116333,network security a practical approach the morgan kaufmann series in networking,harrington jan l,0.9593847011146241,0.9998442081634468
+cobain llc,1558608346,content networking architecture protocols and practice the morgan kaufmann series in networking,markus hofmann leland r beaumont,0.9802907680950471,0.9381580194059664
+speedy books shipping from usa!,0120884771,network algorithmics,george varghese,0.9117254350148681,0.9973284426537415
+caiman,012715051X,network recovery,vasseur jeanphilippe,0.943724153191377,0.976562029039901
+powell's  books,1558609148,wireless sensor networks an information,zhao feng,0.9620380428577028,0.9927349655878512
+macysbook,0125571895,routing flow and capacity design in communication and computer networks,michal pióro deepankar medhi,0.9715974210275247,0.9519471700066038
+reliable book service,0124287514,communication networking an analytical approach,kumar anurag janjunath d kuri joy,0.9350269396127823,0.9922737592804067
+book buyers,155860913X,the internet and its protocols a comparative approach,farrel adrian,0.9999090479327312,0.9999090479327312
+caiman,1558608109,ipv6 2e,loshin peter,0.943724153191377,0.9998876636369095
+powell's  books,1558608281,modern cable television technology 2nd edition,ciciora walter,0.9620380428577028,0.9050524998077035
+alphacraze.com,1558609342,bluetooth application programming with the java apis the morgan kaufmann series in networking,kumar c bala kline paul thompson tim,0.9939622650777792,0.9972463691651907
+reliable book service,1558608591,policybased network management solutions for the next generation,strassner john,0.9350269396127823,0.9952511784126474
+browns books,0120421712,network simulation experiments manual,aboelela emad,0.9701051677262732,0.999915432973197
+enjoystudy,155860832X,computer networks a systems approach 3rd edition the morgan kaufmann series in networking,peterson larry l davie bruce s,0.9891065043346182,0.9984538546422911
+reliable book service,1558608877,network analysis architecture and design,mccabe james d,0.9350269396127823,0.9994441384615149
+"the bookman, inc.",155860751X,mpls network management mibs tools and techniques,nadeau thomas d,0.9470418618162177,0.9906116923257742
+bobs books,155860782X,tcpip clearly explained fourth edition,loshinpeter,0.957244454796714,0.9884020674162167
+a1books,155860779X,developing ipbased services solutions for service providers and vendors,monique morrow kateel vijayananda,0.9490805663451509,0.9630695004988558
+bookholders,1558606556,optical networks a practical perspective second edition the morgan kaufmann series in networking,rajiv ramaswami kumar sivarajan,0.9703827885459364,0.9993428621452103
+book lovers usa,1558605460,telecommunications law in the internet age the morgan kaufmann series in networking,sharon k black,0.9615227266169543,0.9710136053953574
+read-a-book,1558606084,internet qos architectures and mechanisms for quality of service,wang zheng,0.9999929221828777,0.9999929221828777
+summerlee books,1558606459,multicast communication protocols and applications,wittmann ralph zitterbart martina,0.9969378955529404,0.9939553796750752
+reliable book service,1558605746,high performance communication networks,walrand jean varaiya pravin varaiya p p,0.9350269396127823,0.9609534643636906
+bookholders,1558605371,understanding networked applications a first course,david g messerschmitt,0.9703827885459364,0.983718982189833
+quartermelon,1558605711,integrated management of networked systems concepts architectures and their operational application,hegering heinzgerd neumair bernhard abeck sebastian,0.9595316091280166,0.8889817201966047
+bobs books,1558605754,virtual private networks making the right connection,fowler,0.957244454796714,0.9768049647591548
+"archives books, inc.",1558604588,wide area network design concepts tools for optimization the morgan kaufmann series in networking,robert cahn,0.9908919981786765,0.9386653904727023
+caiman,0123704529,java data mining strategy stan,hornick mark f,0.943724153191377,0.9943109518184566
+a1books,0123735777,data preparation for data mining using sas,refaat mamdouh,0.9490805663451509,0.9860171820712648
+caiman,0123735963,joe celkos sql puzzles answ,celko joe,0.943724153191377,0.9921631578057761
+caiman,0123694469,foundations of multidimensiona,samet hanan,0.943724153191377,0.999985206774493
+caiman,0123695120,joe celkos data warehouse and analytical queries in sql,joe celko,0.943724153191377,0.9992539292823911
+movies with a smile,0120887983,data model patterns a metadata map,hay david c,0.9622533487988066,0.9999852354890574
+alphacraze.com,1558607110,querying xml xquery xpath and sqlxml in context the morgan kaufmann series in data management systems the morgan kaufmann series in data management systems,melton jim buxton stephen,0.9939622650777792,0.9999914995495564
+booksoul,1558609016,data mining concepts and techniques,han,0.999919102432339,0.9998298502486197
+textbookxdotcom,0126853525,database modeling and design logical design,teorey toby j lightstone sam nadeau tom,0.8741329618647772,0.9989193571582721
+reliable book service,0120887991,moving objects databases,guting ralf hartmut schneider markus,0.9350269396127823,0.9954713460812084
+cobain llc,0122205316,sql practical guide for developers the morgan kaufmann series in data management systems,michael j donahoo gregory d speegle,0.9802907680950471,0.9978943618618132
+caiman,0123693799,joe celkos sql for smartie os,celko joe,0.943724153191377,0.9998538741735831
+happybook,0120884070,data mining practical machine learning tools and techniques second edition morgan kaufmann series in data management systems,ian h witten eibe frank,0.9951261595446104,0.9970631015035574
+reliable book service,0120887975,joe celkos sql programming style,celko joe,0.9350269396127823,0.9997668045573315
+cobain llc,0121942759,fuzzy modeling and genetic algorithms for data mining and exploration,earl cox,0.9802907680950471,0.9999354695504812
+a1books,0126445516,data modeling essentials third edition morgan kaufmann series in data management systems,graeme simsion graham witt,0.9490805663451509,0.997123715895093
+browns books,0120455994,xml in data management,aiken peter,0.9701051677262732,0.9816941411830853
+caiman,1558609202,joe celkos trees hierarchies,celko joe,0.943724153191377,0.999990942190715
+sarl culture-factory,1558609296,location based services,schiller,0.90673166596953,0.9854050442663824
+powell's  books,1558609180,how to build a business rules engine,chisholm malcolm,0.9620380428577028,0.9950649191462815
+powell's  books,1558609075,xml for data architects designing for re,bean james,0.9620380428577028,0.9915034529996275
+reliable book service,155860653X,business modeling and data mining,pyle dorian,0.9350269396127823,0.9987624728840523
+blackwell online,1558609008,java web services architecture with cdrom,mcgovern james tyagi sameer mathew sunil,0.9692722999024121,0.9514562954677064
+"the bookman, inc.",1558608761,sql clearly explained,harrington jan l,0.9470418618162177,0.9999002185364112
+hyannisport books,1558608923,engineering global ecommerce sites,bean james,0.6481866275287976,0.9745623894699227
+sarl culture-factory,1558608435,designing dataintensive web applications,ceri,0.90673166596953,0.9873651627228913
+reliable book service,1558607544,mining the web discovering knowledge from hypertext data,chakrabarti soumen,0.9350269396127823,0.9999923313519662
+"ulrich books, llc",1558606777,advanced sql1999 understanding objectrelational and other advanced features,melton jim,0.8925255869397537,0.9969219472596458
+book source,1558607536,database tuning principles experiments and troubleshooting techniques,shasha dennis bonnet philippe,0.9637776070377767,0.9637776070377767
+odonnell's general store,1558608206,relational database design clearly explained,harrington jan l,0.9999971127547895,0.9999971127547895
+sarl culture-factory,1558606890,information visualization in data mining and knowledge,usama fayyad,0.90673166596953,0.7164138746537164
+caiman,1558605088,transactional info systems,vossen gottfried,0.943724153191377,0.9643350553315381
+a1books,1558605886,spatial databases with application to gis,philippe rigaux michel o scholl agnes voisard,0.9490805663451509,0.9058080560357827
+"the bookman, inc.",1558604561,sql 1999 understanding relational language components,melton jim simon alan r,0.9470418618162177,0.9876741918119873
+"the bookman, inc.",1558606726,information modeling and relational databases from conceptual analysis to logical design,halpin terry,0.9470418618162177,0.9999329630227696
+powell's  books,1558606424,component database systems,dittrich klaus r,0.9620380428577028,0.853530323011244
+"the bookman, inc.",1558606971,managing reference data in enterprise databases binding corporate data to the wider world,chisholm malcolm,0.9470418618162177,0.7316558534817198
+bobs books,155860684X,data warehousing using the walmart model,westermanpaul,0.957244454796714,0.981654242843058
+paperback emporium,1558604383,database principles programming performance,oneil patrick oneil elizabeth,0.9968677523293418,0.9968677523293418
+quartermelon,1558606475,the object data standard odmg 30,catell rick cattell r g g cattell r g,0.9595316091280166,0.8559076363288773
+powell's  books,155860622X,data on the web from relations to semist,abiteboul serge,0.9620380428577028,0.9720223064287447
+browns books,1558604324,joe celkos data and databases,celko joe,0.9701051677262732,0.9986671271545052
+quartermelon,1558605290,data preparation for data mining,pyle dorian,0.9595316091280166,0.9991297449595004
+carlo baroncini,1558605150,database design for smarties using uml for data modeling,muller robert j,0.9989581780558416,0.9979210397807456
+a1books,155860216X,management of heterogeneous and autonomous database systems,ahmed elmagarmid,0.9490805663451509,0.7631152774151364
+bookmantra.com,1558604820,a complete guide to db2 universal database ibms objectrelational database systems database 2,chamberlin don,0.8747949968286283,0.9800705603629997
+caiman,1558604340,principles of database qu,yu clement,0.943724153191377,0.9319261121522863
+azbooka,1558604537,joe celkos sql puzzles and answers the morgan kaufmann series in data management systems,celko joe,0.9999431220229233,0.9999431220229233
+betterworld.com,1558604154,principles of transaction processing the morgan kaufmann series in data management systems,philip a bernstein eric newcomer,0.9717390435067395,0.9888024732550136
+speedy books shipping from usa!,1558603484,distributed algorithms,nancy a lynch,0.9117254350148681,0.9889512285341788
+a1books,1558603042,active database systems triggers and rules for advanced database processing,jennifer widom,0.9490805663451509,0.8446234463103047
+betterworld.com,1558602712,query processing for advanced database systems the morgan kaufmann series in data management systems,johann christoph freytag david maier gottfried vossen,0.9717390435067395,0.8664613140445285
+frugal media,1558602453,understanding the new sql a complete guide the morgan kaufmann series in data management systems,jim melton alan r simon,0.9775148407064838,0.9953995450755158
+powell's  books,1558601902,transaction processing concepts techni,gray jim,0.9620380428577028,0.9871972695771053
+caiman,1558601694,building an objectoriented da,bancilhon francois,0.943724153191377,0.9912860428891812
+paperbackshop-us,1558602143,database transaction models for advanced applicati,elmagarmid ahmed k,0.9544419652741922,0.9850425485113348
+david's books,0125662513,the persona lifecycle keeping people in mind throughout product design,adlin tamara pruitt john,0.922631749404391,0.9976665408031793
+bobs books,0120958112,costjustifying usability 2e,mayhewdeborah j,0.957244454796714,0.9679399473246364
+ashleyjohnson,0120884364,user interface design and evaluation the morgan kaufmann series in interactive technologies the morgan kaufmann series in interactive technologies,stone debbie jarrett caroline woodroffe mark minocha shailey,0.9730246431872029,0.9590226984597525
+a1books,1558609350,understanding your users a practical guide to user requirements methods tools and techniques,catherine courage kathy baxter,0.9490805663451509,0.9946463767979667
+bobs books,0123540518,rapid contextual design,holtzblattkaren wendelljessamyn burns woodshelley,0.957244454796714,0.9216980289603565
+a1books,1558607528,web application design handbook best practices for webbased software,susan fowler,0.9490805663451509,0.985482773954302
+browns books,1558609369,the the,ling richard c,0.9701051677262732,0.9956143276645303
+"the bookman, inc.",1558608192,information visualization perception for design,ware colin,0.9470418618162177,0.999980928867866
+a1books,1558608311,design complex problem solving,mirel barbara,0.9490805663451509,0.9998503988182527
+browns books,1558608087,hci models theories and frameworks,carroll john m,0.9701051677262732,0.985303705171523
+elephantbooks.com,1558609156,the craft of information visualization readings and reflections the morgan kaufmann series in interactive technologies,benjamin b bederson ben shneiderman,0.8991327569144052,0.967321279890792
+powell's  books,1558608702,paper prototyping the fast easy way to,snyder carolyn,0.9620380428577028,0.999971016266525
+sarl culture-factory,1558606432,persuasive technology,fogg,0.90673166596953,0.9979802189204261
+buecherdackel,1558608214,coordinating user interfaces for consistency,nielsen jakob,0.9661274124999623,0.9981466627933876
+powell's  books,1558606580,usability for the web designing web site,brinck tom,0.9620380428577028,0.995036062069961
+browns books,1558607129,usability engineering,rosson mary beth,0.9701051677262732,0.9946404426653017
+"robert s. brooks, bookseller",1558606882,your wish is my command programming by example,lieberman henry,0.9402548331123857,0.9904163250363082
+a1books,1558605975,robots for kids exploring new technologies for learning,allison druin james hendler,0.9490805663451509,0.8370452197160609
+william a. breitmaier,1558605827,gui bloopers donts and dos for software developers and web designers,johnson jeff,0.9999848951060399,0.9999848951060399
+"pacific book exchange, llc",1558606009,information appliances and beyond the morgan kaufmann series in interactive technologies,bergman eric,0.9856302059707175,0.9961382765744718
+gotbooks,1558605614,the usability engineering lifecycle a practitioners handbook for user interface design the morgan kaufmann series in interactive technologies,deborah j mayhew,0.9696352479476626,0.9912875691736959
+quartermelon,1558605339,readings in information visualization using vision to think,card stuart mackinlay jock schneiderman ben,0.9595316091280166,0.9664128893842563
+gotbooks,155860569X,web site usability the morgan kaufmann series in interactive technologies,jared spool tara scanlon carolyn snyder terri deangelo,0.9696352479476626,0.8995963953619773
+red barn books,1558604189,developing user interfaces the morgan kaufmann series in interactive technologies,dan r olsen,0.9861870302160035,0.9952594072884084
+a1books,1558604448,readings intelligent user interfaces,mark maybury wolfgang wahlster,0.9490805663451509,0.8357447053547657
+browns books,1558604111,contextual design,beyer hugh,0.9701051677262732,0.9930284689250185
+kitabay,0125184085,multimedia and hypertext the internet and beyond the morgan kaufmann series in interactive technologies ser,nielsen jakob,0.9645846516937309,0.9995597060443833
+caiman,0125184069,usability engineering os nd,nielsen jakob,0.943724153191377,0.9999991616818631
+henry's biz books,0123706092,web dragons inside the myths of search engine technology the morgan kaufmann series in multimedia and information systems,witten ian h gori marco numerico teresa,0.99591007005509,0.9786061043467769
+a1books,1558609245,understanding digital libraries the morgan kaufmann series in multimedia and information systems,michael lesk,0.9490805663451509,0.9990028915044592
+powell's  books,155860829X,bioinformatics managing scientific data,lacroix zoe,0.9620380428577028,0.990753067197564
+"bookarama, inc",1558607900,how to build a digital library the morgan kaufmann series in multimedia and information systems,ian h witten david bainbridge,0.9487938462879754,0.9543800875947795
+sunmark store,1558607145,digital watermarking principles practice the morgan kaufmann series in,ingemar cox matthew miller jeffrey bloom mathew miller,0.935476004547217,0.9393202786350474
+a1books,1558606513,readings in multimedia computing and networking,kevin jeffay,0.9490805663451509,0.8356536269891295
+valorebooks,1558606246,nan,alberto del bimbo,0.6954926665518973,0.9375353345763282
+a1books,1558605703,managing gigabytes compressing and indexing documents and images,ian witten,0.9490805663451509,0.9468568414328337
+caiman,1555583008,ms exchange server 2003 scalab,bijaoui pierre,0.943724153191377,0.9999534387135484
+powell's  books,1555583288,deploying linux on the desktop,haletky edward,0.9620380428577028,0.9998009325342462
+browns books,0750661313,students essential guide tonet,grimer tony,0.9701051677262732,0.9959123810787435
+powell's  books,1555583202,open source software implementation ma,kavanagh paul,0.9620380428577028,0.9973632911932355
+browns books,1555582435,open vms system management guide,baldwin lawrence,0.9701051677262732,0.9727322564913369
+browns books,1555582737,linux and the unix philosophy,gancarz mike,0.9701051677262732,0.999635000948323
+caiman,1555582761,unix for openvms users 3e,bourne philip e,0.943724153191377,0.8516821466160954
+bobs books,1555582990,leveraging wmi scripting using windows management instrumentation to solve windows management problems,lissoiralain,0.957244454796714,0.9855348633644816
+"the bookman, inc.",1555582818,getting started with open vms system management,miller david donald,0.9470418618162177,0.9618785722984915
+a1books,1555582672,linux and openvms interoperability tricks for old dogs new dogs and hot dogs with open systems,john robert wisniewski,0.9490805663451509,0.8207373162047941
+"the bookman, inc.",1555582664,understanding wmi scripting,lissoir alain,0.9470418618162177,0.9998675197158619
+brettsbooks,1555582850,microsoftnet,stanley nigel,0.9643812869403332,0.9181681752448481
+bobs books,1555582591,trucluster server handbook,fafrak,0.957244454796714,0.9714409950691277
+davids antiquariat + www.catch-a-book.de,1555581595,openvms alpha internals and data structures memory management,goldenberg ruth e,0.9818081289850177,0.9994979556837038
+bobs books,1555582745,tru64 unix troubleshooting diagnosing and correcting system problems,moore,0.957244454796714,0.9637986755674278
+browns books,1555582796,getting started with open vms,duffy michael,0.9701051677262732,0.9947087005263634
+a1books,1555582532,clustering windows server a road map for enterprise solutions,gary mauler,0.9490805663451509,0.822140282526935
+powell's  books,1555582559,tru64 unix system administrators guide,cheek matthew,0.9620380428577028,0.9352669234486541
+monk cabin books,012251341X,mac os x developers guide,jesse feiler,0.9851425975988896,0.9777642222975371
+universalathenaeum,0750673540,pocket pc clear simple clear simple digital,craig peacock,0.9913071345325886,0.9980745009775817
+looksgoodbooks,1555582400,mission critical active directory architecting a secure scalable infrastructure,balladelli micky de clercq jan,0.9516566459519202,0.9703371339240258
+powell's  books,1555582273,tru64 unix file system administration hd,hancock steve,0.9620380428577028,0.9866641322755728
+bookmantra.com,1558604960,linkers and loaders,levine john r,0.8747949968286283,0.9999106430391779
+bookbrothers.net,1555581994,digital unix system administrators guide hp technologies,cheek matthew,0.9405720452109995,0.958240044224493
+a1books,1555581552,unix for openvms users,richard holstein,0.9490805663451509,0.7947669502623177
+dotcom liquidators / dc 1,1555582036,openvms users guide,holmay patrick,0.8849648429150001,0.9990271657855253
+bookbuyers online,1555582028,alpha architecture reference manual third edition hp technologies,alpha architecture committee,0.9420589855487252,0.8291886741902194
+philip weiss auctions,1555581579,open vms operating system concepts second edition,miller david donald,0.8597279120104118,0.8597279120104118
+oak hill books of austin,1555581269,openvms performance management hp technologies,sethi joginder,0.9847238390755151,0.9999219678088633
+scrooge and marley books,1555581234,the unix philosophy,gancarz mike,0.9938323079331657,0.995649059634648
+a1books,0750679999,electronic security systems a managers guide to evaluating and selecting system solutions,pearson robert,0.9490805663451509,0.6661394245831221
+a1books,0750679298,hightechnologycrime investigatorandaposs handbook establishing and managing a hightechcrime investigative program,kovacich gerald l jones andy,0.9490805663451509,0.9777879693029385
+a1books,155558344X,securing the hp nonstop server in the open systems world tcpip oss and sql,xypro technology corp,0.9490805663451509,0.9830323641159152
+textbookxdotcom,1555583393,business continuity and disaster recovery for infosec managers,rittinghouse john w ransome james f,0.8741329618647772,0.9783263808487526
+a1books,0750678038,security education awareness and training seat from theory to practice,carl roper dr lynn fischer joseph a grau,0.9490805663451509,0.9527695195173046
+betterworld.com,0124730515,computergraphic facial reconstruction,john g clement murray k marks,0.9717390435067395,0.9918285955747993
+paperbackworld.de,1555583385,im instant messaging security,john rittinghouse james ransome,0.9549181489456479,0.9534714856424478
+movies with a smile,0750677465,bulletproof wireless security gsm umts 80211 and ad hoc security,chandra praphul,0.9622533487988066,0.999995281351528
+reliable book service,1555583342,implementing database security and auditing a guide for dbas information secruity administrators and auditors,bennatan ron,0.9350269396127823,0.9996524389427658
+caiman,0750677953,risk mgmt for computer securit,jones andy,0.943724153191377,0.9948391641444935
+bobs books,1555582974,firewalls jumpstart for network and systems administrators,vacca,0.957244454796714,0.9675653278384375
+browns books,1555583326,voice over internet protocol voip security,ransome james f,0.9701051677262732,0.9821837854990031
+firstclassbooks,0121631052,investigating child exploitation and pornography the internet law and forensic science,monique ferraro eoghan casey,0.9496485496932767,0.9879771315439697
+universalathenaeum,0750678488,trojans worms and spyware a computer security professionals guide to malicious code,michael erbschloe,0.9913071345325886,0.9999759750832149
+collegebooksdirect.com,0121631044,digital evidence and computer crime forensic science computers and the internet,casey eoghan,0.9674708560053913,0.9999986431615129
+a1books,1555582834,windows server 2003 security infrastructures core security features,jan de clercq,0.9490805663451509,0.9727375262896222
+caiman,0127427511,java cryptography extensions,weiss jason,0.943724153191377,0.998990773746614
+powell's  books,1555583172,wireless operational security,rittinghouse john,0.9620380428577028,0.9869692541327454
+a1books,1555583121,implementing homeland security for enterprise it,michael erbschloe,0.9490805663451509,0.9940219076090422
+a1books,1555583148,nonstop server security,xypro technology corp,0.9490805663451509,0.6979729812387864
+reliable book service,1555582982,internet security a jumpstart for systems administrators and it managers,speed tim ellis juanita,0.9350269396127823,0.9872882519275108
+movies with a smile,0750676132,investigative data mining for security and criminal detection,mena jesus,0.9622533487988066,0.9979052089293714
+lakeside books,0121604527,enterprise directory and security implementation guide,carrington,0.9535074378164766,0.9548672627083498
+quartermelon,0750673273,information assurance managing organizational it security risks,boyce joseph g jennings dan w,0.9595316091280166,0.8714041270374052
+bookbuyers online,1558607692,disappearing cryptography information hiding steganography watermarking,wayner peter,0.9420589855487252,0.9996705884875027
+sarl culture-factory,1878707965,information security best practices,george stefanek,0.90673166596953,0.858108661245347
+browns books,0121631036,handbook of computer crime investigation,casey eoghan,0.9701051677262732,0.9996961509492149
+"pacific book exchange, llc",0126565619,the personal internet security guidebook keeping hackers and crackers out of your home the korper and ellis ecommerce books series,speed tim ellis juanita korper steffano,0.9856302059707175,0.992498458630056
+veda's marketing agencies,0750649445,information warfare corporate attack and defence in a digital world,hutchinson william,0.8430074512691738,0.9961361004936676
+justice book company,0122374711,the internet security guidebook from planning to deployment,ellis juanita speed tim,0.9853720406319916,0.9708498966679526
+betterworld.com,0750672579,netspionage the global threats to information,william c boni gerald l kovacich,0.9717390435067395,0.9696720899125718
+thebookcom,0750670290,iway robbery crime on the internet,boni william c,0.9764726208758895,0.9550399778940863
+caiman,0750699388,managing legal security risk,shaw paul,0.943724153191377,0.9968413445634039
+tiber books,0750696001,computer security,carroll john m,0.9962078472225111,0.9962078472225111
+diane publishing co.,0750696915,ultimate telecommunications security survey,james l schaub toni ames,0.8237433343893652,0.8619500710838834
+a1books,0123735858,uml 2 certification guide fundamental and intermediate exams,weilkiens tim oestereich bernd,0.9490805663451509,0.6558780426875539
+a1books,0123725011,practical modelbased testing a tools approach,utting mark legeard bruno,0.9490805663451509,0.9073230467477142
+a1books,0120121689,advances in computers volume 68 computational biology and bioinformatics,zelkowitz marvin,0.9490805663451509,0.8093470125319705
+a1books,0122290631,3d game engine design a practical approach to realtime computer graphics,eberly david h,0.9490805663451509,0.9999936208560706
+caiman,0120121670,advances in computers v67,zelkowitz marvin,0.943724153191377,0.9757662695607568
+bobs books,0120121662,advances in computers volume 66 quality software development,zelkowitzmarvin,0.957244454796714,0.9496240092923081
+alphacraze.com,0120885603,smart phone and next generation mobile computing morgan kaufmann series in networking paperback,zheng pei ni lionel,0.9939622650777792,0.9997780439184453
+a1books,0750664711,realtime systems development,williams rob,0.9490805663451509,0.9999975681058757
+david's books,1558606483,distributed systems architecture a middleware approach,puder arno romer kay pilhofer frank,0.922631749404391,0.9982517102239111
+macysbook,0750665076,computer architecture a quantitative approach,tom gilb,0.9715974210275247,0.9995727381058555
+a1books,0120121654,advances in computers,zelkowitz marvin,0.9490805663451509,0.9451662941758011
+booksmart,0750660759,software design methodology from principle to architectural styles,zhu hong,0.9543940713977638,0.9999356355387841
+quartermelon,0120121646,advances in computers new programming paradigms,zelkowitz marvin,0.9595316091280166,0.9916904937435087
+a1books,0120121638,advances in computers volume 63 parallel distributed and pervasive computing advances in computers,marvin zelkowitz,0.9490805663451509,0.8107426088535047
+alphacraze.com,1558607013,higherorder perl transforming programs with programs,dominus mark jason,0.9939622650777792,0.9999152764714794
+a1books,1558608176,mobile agents basic concepts mobility models and the tracy toolkit,peter braun wilhelm r rossak,0.9490805663451509,0.928047281148946
+browns books,0750661232,a a,britton carol,0.9701051677262732,0.9988348292626837
+bobs books,1555583180,ipv6 network programming,haginojunichiro,0.957244454796714,0.9895762205766422
+sarl culture-factory,1558606874,objectoriented construction handbook,zullighoven,0.90673166596953,0.9965252347210173
+a1books,012012162X,advances in computers volume 62 advances in software engineering advances in computers,marvin zelkowitz,0.9490805663451509,0.9194406191847031
+a1books,0120121611,advances in computers advances in computers,marvin v zelkowitz,0.9490805663451509,0.6614635416913991
+reliable book service,1555583156,network programming in net withc and visual basic net,reid fiach,0.9350269396127823,0.9998554471707047
+durnickbooks,0750660988,objectoriented design with uml and java,barclay kenneth a,0.9896503436872566,0.9837992497764416
+bobs books,155558313X,managing software deliverables,rittinghouse,0.957244454796714,0.9880138313076466
+reliable book service,0750656832,applying uml advanced application,pooley rob wilcox pauline,0.9350269396127823,0.8822398448977747
+movies with a smile,1555583075,debugging by thinking a multidisciplinary approach,metzger robert charles,0.9622533487988066,0.9899427046995276
+a1books,1558608362,java practical guide for programmers morgan kaufmann practical guides series,brunner robert,0.9490805663451509,0.9929641154834008
+browns books,075065855X,mathematics for electrical engineering and computing,attenborough mary,0.9701051677262732,0.9999015063250397
+lakeside books,012012159X,advances in computers,zelkowitz marvin,0.9535074378164766,0.9904082121401905
+papamedia.com,0120121581,advances in computers volume 58 highly dependable software advances in computers,marvin zelkowitz,0.9187548101791725,0.6892178577124032
+a1books,0120121573,advances in computers information repositories,marvin zelkowitz,0.9490805663451509,0.7917488375081845
+caiman,1558608028,tcltk 2e,flynt clif,0.943724153191377,0.9998853142977938
+opoe-abe books,1558607552,design methods for reactive systems,wieringa,0.8269923235829199,0.9983440088110291
+speedy books shipping from usa!,1558608621,the struts framework practical guide for java programmers,sue spielman,0.9117254350148681,0.9965666227228656
+caiman,0120121565,advances in computers v56,zelkowitz marvin,0.943724153191377,0.9718402815138233
+caiman,1558606394,object oriented reengineering,demeyer serge,0.943724153191377,0.9785486790748814
+computer book works,1558607455,system architecture with xml the morgan kaufmann series in software engineering and programming,daum berthold merten udo,0.9593847011146241,0.9698700790279609
+reliable book service,0750674032,electromagnetics explained a handbook for wirelessrf emc and highspeed electronics,schmitt ron,0.9350269396127823,0.999871713237869
+caiman,1555582494,compaq visual fortran os,lawrence norman,0.943724153191377,0.9998797628662482
+aha-buch,1558608265,tcpip sockets in c,michael j donahoo kenneth l calvert,0.973153125362106,0.972871590461057
+prairie archives,1558606858,tcpip sockets in java practical guide for programmers,calvert kenneth l donahoo michael j,0.9823844012630537,0.9987804509030329
+powell's  books,1558607366,jdbc practical guide for java programmers,speegle gregory,0.9620380428577028,0.9958794963795263
+elephantbooks.com,0120121557,advances in computers volume 55 advances in computers,marvin zelkowitz,0.8991327569144052,0.8147342982412423
+caiman,0120121549,advances in computers v54,zelkowitz marvin,0.943724153191377,0.9576349722728507
+caiman,075067329X,power supply ckbk 2e,brown marty,0.943724153191377,0.9997706201848723
+caiman,044450673X,parallel computational fluid d,jenssen c b,0.943724153191377,0.8442013113289035
+thebookcom,0750672811,radio frequency transistors principles and practical applications,dye norman e,0.9764726208758895,0.8620978835908658
+caiman,1558606793,objectoriented implementation,besset didier h,0.943724153191377,0.9758023536485494
+paperbackshop-us,1558607234,the school of niklaus wirth,boszormenyi laszlo gutknecht jurg ed,0.9544419652741922,0.6424955514022255
+briggs books,1558605932,3d game engine design a practical approach to realtime computer graphics no disk,eberly david h,0.9461614163356665,0.9999875861700719
+revaluation books,0444505563,cafe an industrialstrength algebraic formal method,k futatsugi at nakagawa t tamai,0.9567288371687277,0.7018534467635154
+bargainbookstores.com,0127347607,mathematics mechanization and applications,dongming wang xiaoshan gao,0.9871913281558565,0.9967162090516973
+caiman,0120121522,40th anniv volume annive 40e,zelkowitz marvin,0.943724153191377,0.9823310364285162
+a1books,0125250959,fundamentals of optical waveguides,katsunari okamoto,0.9490805663451509,0.9223905105706247
+a1books,0120121514,cumulative subject and author indexes for volumes 149 part ii volume 51 advances in computers,marvin v zelkowitz,0.9490805663451509,0.7434706558995495
+caiman,0120121506,advances in computers v50,zelkowitz marvin,0.943724153191377,0.905842617564628
+reliable book service,0123264286,objectoriented database design clearly explained,harrington jan l,0.9350269396127823,0.9999542507765743
+a1books,0127887741,compression algorithms for real programmers,peter wayner,0.9490805663451509,0.914085992583605
+caiman,0120121484,distributed info resources,zelkowitz marvin,0.943724153191377,0.88546214969412
+oxfam - su students' union branch,1555582184,digital visual fortran programmers guide,etzel michael,0.9939661834315827,0.9879370505322278
+caiman,0750696559,simplified design of filter ci,lenk john d,0.943724153191377,0.9985710105179918
+cummings books,0121403106,insights into mobile multimedia communication signal processing and its applications ser,bull david r,0.9564749917508323,0.9950711084541372
+lakeside books,0750670738,power electronics design handbook,kularatna nihal,0.9535074378164766,0.997318285136905
+caiman,0750670622,art science of analog circui,williams jim,0.943724153191377,0.9186725815520113
+caiman,0750670630,inside orcad capture for windo,schroeder chris,0.943724153191377,0.9122131138479842
+summerlee books,0750696524,simplified design of microprocessor supervisory circuits,lenk john d,0.9969378955529404,0.9999204114308057
+frugal media corporation,0750690895,designus maximus unleashed edn series for design engineers,clive maxfield,0.9923073786729354,0.9992813063727272
+bookmantra.com,0124438660,neural network systems techniques and applications fuzzy logic and expert systems applications,leondes cornelius t,0.8747949968286283,0.9953806422797881
+bookmantra.com,0124438652,image processing and pattern recognition am,leondes cornelius t,0.8747949968286283,0.8395769075996983
+voyager books,0124438679,control and dynamic systems neural network systems techniques and applications volume 7 neural network systems techniques and applications vol 7,leondes cornelius t,0.9936106597243474,0.9936106597243474
+caiman,0750670061,rechargeable batteries applica,gates energy products,0.943724153191377,0.8270943730018694
+bookmantra.com,0124438644,neural network systems techniques and applications industrial and manufacturing systems,leondes cornelius t,0.8747949968286283,0.9939362049237142
+michael's books,0124438628,optimization techniques,leondes cornelius t,0.9919386517057631,0.9919386517057631
+browns books,0340700149,software development for engineers,buchanan william,0.9701051677262732,0.9980461269059447
+powell's  books,0750696540,simplified design of voltage frequency c,lenk john d,0.9620380428577028,0.9141325678862536
+powell's  books,1558603204,advanced compiler design implementatio,muchnick steven s,0.9620380428577028,0.9996130566281829
+"heather jo frey, bookseller",1558604375,productive objects an applied software project management framework paperback,robert j muller,0.9449967539608906,0.9589742122603099
+limelight bookshop,0750698586,edn design ideas,staff edn,0.9365556276569689,0.626699081666732
+bookholders,1555581676,m programming a comprehensive guide,richard walters,0.9703827885459364,0.9762372685939767
+alphacraze.com,0123951704,optical fiber telecommunications iiia,kaminow ivan p koch thomas l,0.9939622650777792,0.8928700510948158
+virtuous volumes et al.,0750695099,simplified design of data converters,lenk john d,0.906663294954628,0.906663294954628
+powell's  books,0123951712,optical fiber telecommunications iiib,kaminow ivan p,0.9620380428577028,0.9106075491404887
+atticus books,0123490405,teaching and learning formal methods academic press ser,dean c neville hinchey michael,0.9102953243611195,0.9102953243611195
+"e-book traders, inc.",0750695080,simplified design of ic amplifiers edn series for design engineers,john lenk,0.9815906564172817,0.9458700170553445
+caiman,0750697008,inside orcad,schroeder chris,0.943724153191377,0.9763973946255486
+paperbackshop-us,0750698217,simplified design of switching power supplies,lenk john d,0.9544419652741922,0.9967356789407138
+hjp wissenschaftl. versandbuchhandlung,0340645881,pascal for students including turbo pascal,hahn brian d kemp ray,0.9869410786432664,0.9895054201284117
+north mountain books,0750695102,simplified design of micropower and battery circuits the edn series for design engineers,lenk john d,0.9813066889520354,0.9813066889520354
+a1books,0126443750,relational database systems,simovici dan a tenney richard l,0.9490805663451509,0.9946956438202015
+paradise found books,034061398X,designing computer programs,haigh jim,0.9649923694727305,0.9649923694727305
+quartermelon,0340600349,fortran 90 for scientists and engineers,hahn brian d,0.9595316091280166,0.9949094753397498
+"j. hood, booksellers,    abaa/ilab",0125062303,knowledge acquisition and machine learning theory methods and,morik katharina,0.9664904282367821,0.9330604450427585
+thebookcom,0126290407,kads,schreiber guus,0.9764726208758895,0.9098414975979559
+tranceworks,1555580890,motif programming,brain marshall,0.9485729006417588,0.8635202853855003
+brockport college foundation -- books,0120828103,practical parallel programming,bauer barr e,0.9880345171319269,0.9989821537358075
+quartermelon,0444888144,extrapolation methods theory and practice,by brezinski c by redivo zaglia m,0.9595316091280166,0.7992399910868982
+browns books,1558601910,paradigms of artificial intelligence programming,norvig peter,0.9701051677262732,0.9999843986365137
+lakeside books,0124841406,computer simulation,mchaney roger w,0.9535074378164766,0.9976806098446688
+powell's  books,0750696400,analog circuit design art science pers,williams jim,0.9620380428577028,0.9944453442213927
+caiman,0750694998,troubleshooting analog circuit,pease robert a,0.943724153191377,0.9962965687775759
+"banjo booksellers, ioba",0122090489,highspeed analogtodigital conversion,demler michael j,0.999316555768189,0.999316555768189
+alexander gallery,0127748601,introduction to common lisp,yuasa taiichi hagiya masami weyhrauch richard,0.9470157102030557,0.8944175993590584
+gotbooks,1555580416,common lisp second edition the language hp technologies,guy steele,0.9696352479476626,0.9644017458360549
+quartermelon,0444520872,dictionary of distances,by deza michelmarie by deza elena,0.9595316091280166,0.8390123298483293
+books2anywhere.com,0240807944,expanding a digital content management system,arthur magan h,0.9812117673013818,0.9998849770411458
+htbook,012620862X,introduction to data compression,sayood khalid,0.9420617618557785,0.9999994382758162
+"the bookman, inc.",1555583113,resilient storage networking designing flexible scalable data infrastructures,schulz greg,0.9470418618162177,0.9996655880374246
+a1books,1555582885,oracle real application clusters,vallath murali,0.9490805663451509,0.9992952766920452
+bobs books,0124438954,database and data communication network systems threevolume set,leondescornelius t,0.957244454796714,0.8570575354652766
+pima,1555582397,scaling microsoft exchange 2000 create and optimize highperformance exchange messaging systems hp technologies s,pierre bijaoui,0.9625084418701849,0.9577820200572313
+bobs books,0122941519,supply chain design and management,govilmanish prothjeanmarie,0.957244454796714,0.8802389221266175
+bridgetown books,1558607137,data warehousing and business intelligence for ecommerce,simon alan r shaffer steven l,0.9978214054055013,0.9956428194947066
+books2anywhere.com,0124558402,enterprise knowledge management,loshin david,0.9812117673013818,0.9937626879508316
+international books,0122384520,a mathematical introduction to logic softcover,enderton herbert b,0.9854403854010918,0.9998940502522226
+a. raj din-dayal booksellers,012443875X,knowledgebased systems techniques and applications 4volume set,cornelius t leondes,0.9774493000369703,0.9226170382255927
+kitabay,0124499759,on time technology implementation how to achieve implementation success with limited time and resources,lientz bennet p rea kathryn p,0.9645846516937309,0.9912134719092852
+reliable book service,1558603697,digital compression for multimedia principles and standards,gibson jerry d berger toby,0.9350269396127823,0.9168943858253396
+jonathan grobe books,1558604030,predictive data mining a practical guide,weiss sholom m,0.9920030028459342,0.9832000332349992
+caiman,0122661702,automated info retrieval,frants valery j,0.943724153191377,0.9528775666251423
+quartermelon,1558604545,readings in information retrieval,edited by jones karen sparck edited by willett peter,0.9595316091280166,0.8045416515003236
+aridium internet books,0120959704,modern information systems for managers,bidgoli hossein,0.9810587215441362,0.9810587215441362
+bookmantra.com,0120510405,information tasks towards a usercentered approach to information systems,allen bryce,0.8747949968286283,0.9976523713224482
+jml books,0124650309,information services for innovative organizations,maguire carmel kazlauskas edward j weir anthony d,0.9646292377439614,0.9646292377439614
+bobs books,1558602534,parallel computing works,fox,0.957244454796714,0.9593387562050755
+hill country traders,0124383807,fundamentals of spatial information systems,laurini robert thompson derek,0.9999272885381406,0.9999272885381406
+magus books seattle,0126542619,organizing information principles of data base and retrieval systems,soergel dagobert,0.9965819095946457,0.9999953163309376
+a1books,0121674517,c 20 practical guide for programmers,michel de champlain brian g patrick,0.9490805663451509,0.9764532260081826
+powell's  books,0127323503,multi tier application prog with php,wall david,0.9620380428577028,0.9877507651668129
+versandantiquariat robert a. mueller,0124660517,tcpip sockets in c c sharp practical guide for programmers,makofske david b donahoo michael j calvert kenneth l,0.974699512241104,0.979048482448481
+browns books,0126567557,jstl,spielman sue,0.9701051677262732,0.9995013550259221
+red barn books,1558609091,java practical guide for programmers the practical guides,michael sikora,0.9861870302160035,0.9804335343419879
+book lovers usa,155860846X,multicast sockets practical guide for programmers the practical guides,david makofske kevin almeroth,0.9615227266169543,0.9228433243207341
+books r us,0131496980,introduction to computing and programming with java a multimedia approach,mark guzdial barbara ericson,0.9855169742296364,0.9987191847044965
+ecampus.com,0131872893,learning to program with alice,dann wanda p cooper stephen pausch randy,0.9638414552066021,0.9996382772008559
+collegebooksdirect.com,0131194593,problem solving and programming concepts,sprankle maureen,0.9674708560053913,0.9999972923638668
+babooneez,013046709X,a balanced introduction to computer science,reed david,0.9945545530360068,0.9976773839354711
+"borgasorus books, inc",0131176552,introduction to computing and programming in python a multimedia approach,guzdial mark,0.9260081820152489,0.9999874218731999
+"verycoolbooks.com, inc.",0130602396,fundamentals of structured program design 2nd edition,dan robinson,0.9901058149972986,0.9986658147838252
+a1books,0130494984,tools for structured and objectoriented design an introduction to programming logic,bohl marilyn rynn maria,0.9490805663451509,0.9870527088910542
+countless pages book store,0131227068,patterns of problem solving,rubinstein moshe f firstenberg iris rubinstein,0.8004022809205658,0.8004022809205658
+frugal media corporation,0130920657,business programming logic 4th edition,jay singelmann,0.9923073786729354,0.9933599371555802
+caiman,0132320495,introduction to programming using c fundamentals,liang y daniel,0.943724153191377,0.8187932901343152
+softcoverdeal,0131857576,c how to program 5th edition how to program book cdrom web access card,harvey paul deitel associates,0.99639003682409,0.9998540138595334
+sunmark store,0131426605,simply c an applicationdriven tutorial approach cdrom,deitel,0.935476004547217,0.9621403924302171
+allenac,0131857584,small c how to program,harvey paul deitel associates,0.9957289548458453,0.9940761368576277
+a1books,0134373774,visual cnet how to program,deitel harvey m deitel paul j,0.9490805663451509,0.9996884588220066
+ecampus.com,0130914266,c an introduction to computing,adams joel nyhoff larry r,0.9638414552066021,0.9739758445532177
+bookbyte / norwest textbooks,0130853755,c programming today by johston eastern economy edition,johnston barbara,0.9592849983398527,0.9999135008743543
+revaluation books,0130132497,getting started with microsoft visual c 6 with an introduction to mfc,deitel harvey m deitel paul j nieto t r strassberger e t,0.9567288371687277,0.8842916999922779
+bookbyte / norwest textbooks,0132681528,introduction to computing using c and object technology by ford,ford william h topp william r,0.9592849983398527,0.997790279904114
+brandnewtextbooks,0131525239,c how to program,deitel associates,0.9855491494609449,0.9900040959224455
+"borgasorus books, inc",0131426419,simply c an applicationdriven tutorial approach,deitel harvey m deitel paul j hoey tim yaeger cheryl h,0.9260081820152489,0.9791889115588985
+collegebooksdirect.com,0131986198,data structures from the outside in an object oriented approach with java 5 0,venugopal sesh,0.9674708560053913,0.9996689267647706
+bookbyte / norwest textbooks,0132221586,introduction to java programming by liang 6th edition comprehensive version,liang y daniel,0.9592849983398527,0.9999481868890041
+by hand books,0132237385,introduction to java programming,liang y daniel,0.965079827377253,0.9996885952262122
+powell's  books,0132222205,java how to program 7ed,deitel associates,0.9620380428577028,0.8282790346546662
+htbook,0131735799,java for students,parr mike bell douglas,0.9420617618557785,0.9999291245662513
+bookholders,0131474340,java java java objectoriented problem solving,ralph morelli ralph walde,0.9703827885459364,0.9999596986359747
+ashleyjohnson,013197629X,objects first with java a practical introduction using bluej 3rd edition,barnes david j kolling michael,0.9730246431872029,0.995919316707634
+ecampus.com,0131856456,the essential java class reference for programmers,durney brian,0.9638414552066021,0.9998776924508949
+isedeals,0131483986,java how to program,harvey m deitel paul j deitel,0.9883622641325578,0.9994773371000096
+orbidoo.de,0131424157,java an eventful approach,kim bruce andrea danyluk thomas murtagh,0.983728287639925,0.9872881963479905
+the e,0131492020,java an introduction to problem solving programming,savitch walter,0.9959742144677067,0.9999890851450843
+collegebooksdirect.com,0131486608,small java how to program,deitel harvey m deitel paul j,0.9674708560053913,0.9999532563112628
+enjoystudy,0131541579,small java how to program and cd version one package 6th edition how to program series,deitel harvey m deitel paul j,0.9891065043346182,0.9902446767673967
+ecampus.com,0131018604,information systems programming with java,staugaard andrew,0.9638414552066021,0.9991661261455529
+powell's  books,013048623X,java prog today,johnston barbara,0.9620380428577028,0.9926145352075029
+bradsbooks.com,0131427814,practical debugging in java,ford ann teorey toby bartlett sandy tyson gary,0.9661057268194527,0.849965878028243
+bookholders,0131426486,simply java programming an applicationdriven tutorial approachwater damage,harvey m deitel paul j deitel deitel associates,0.9703827885459364,0.9964064242977112
+"pacific book exchange, llc",0131410792,tutorial for jbuilder,liang y daniel,0.9856302059707175,0.9992063689358851
+college book service,0131410806,tutorial for sun one studio 40 pb 2003,liang y daniel,0.9461371999234421,0.9999859340422841
+bookbyte / norwest textbooks,0130142514,java an introduction to computing by adams,adams joel nyhoff jeffrey l,0.9592849983398527,0.9847901835106033
+indoo.com,0131482394,agile javatm crafting code with testdriven development,langr jeff,0.9361375021708288,0.9999999601892846
+a1books,013143697X,javatm application development on linuxr,albing carl schwarz michael,0.9490805663451509,0.9999197364775922
+cody books ltd,0131463055,core javaserver faces sun microsystems press java series,geary david horstmann cay,0.9359623135438192,0.999988210824276
+economy books,0131401602,developing enterprise web services an architects guide,chatterjee sandeep webber james,0.9917459627113042,0.9952147691206807
+alphacraze.com,0131482114,just javatm 2 6th edition,linden peter van der,0.9939622650777792,0.9999999798329171
+revaluation books,0130649341,complete java 2 training course student edition,deitel harvey m deitel paul j,0.9567288371687277,0.6661394245831221
+best bargain books,0130166383,java 2 programmers interactive workbook,kevin chu eric brower,0.9843626994319237,0.9986378872822279
+textbook brokers,0132438623,simply visual basic 2005 2nd edition,harvey paul deitel associates,0.9806999617528838,0.9743931740455046
+www.textbooksrus.com,0131869000,visual basicnet how to program,deitel associates,0.9787469008972882,0.9930338289117886
+scholar's book outlet,0672325314,sams teach yourself microsoft visual basic net 2003 in 21 days,holzner steven,0.9229625170798769,0.9999999031287249
+jessebook,0131409093,adts data structures and problem solving with c,nyhoff larry r,0.9277751700663568,0.999655367103566
+indoo.com,013919424X,c for java programmers,weiss mark allen,0.9361375021708288,0.9975095148804062
+enjoystudy,0130858501,data structures with c using stl 2nd edition,ford william h topp william r ford william topp william,0.9891065043346182,0.9977259482499814
+bookbyte / norwest textbooks,0130284467,practical introduction to data structures and algorithm analysis by shaffer 2nd edition,shaffer clifford a,0.9592849983398527,0.9992098482114928
+mildredsbooks,0137689950,data structures and program design in c,robert l kruse alex ryba,0.990655896125643,0.9746826055006191
+bookbyte / norwest textbooks,0130369977,data structures using c and c by langsam 2nd edition,langsam yedidyah augenstein moshe j tenenbaum aaron m,0.9592849983398527,0.9920155562316834
+browns books,0131972596,synchronization algorithms and concurrent programming,taubenfeld gadi,0.9701051677262732,0.9998037670595361
+california textbooks,0023606924,algorithms,johnsonbaugh richard schaefer marcus,0.9956817083704012,0.98042652788496
+economy books,0133350681,fundamentals of algorithmics,brassard gilles bratley paul,0.9917459627113042,0.9999933750628821
+economy books,0137903952,artificial intelligence a modern approach,russell stuart j norvig peter,0.9917459627113042,0.9999997469919314
+books: silver rose llc,0130257869,programming language processors in java compilers and interpreters,watt david a brown deryck f,0.9859754206715717,0.9977435715592412
+quartermelon,0131821067,building your own compiler with c,holmes jimmy,0.9595316091280166,0.9863290442489714
+thesaintbookstore,0130481904,the art of compiler design theory and practice,pittman thomas peters james,0.9907385184707767,0.9962039856248853
+powell's  books,0130351180,computer graphics using java 2d 3d,liang y daniel,0.9620380428577028,0.9144739870658897
+textbookxdotcom,0131496700,computer graphics using open gl,francis s hill jr,0.8741329618647772,0.7353490513392352
+textbookxdotcom,0131452541,computer graphics programming problem solving and visual communication,steve cunningham,0.8741329618647772,0.8227803991879712
+flybookstore,0130153907,computer graphics with opengl,hearn donald baker m pauline,0.9927126434311111,0.999959949187683
+books2anywhere.com,0130411612,usercentered web site development,mccracken daniel d wolfe rosalee j,0.9812117673013818,0.9879342878027226
+ecampus.com,0131739026,painting the digital river how an artist learned to love the computer,walker james faure,0.9638414552066021,0.9999999999900675
+ab book company,0131238035,the x window system programming and applications with xt osfmotif,young douglas a,0.9883593903278668,0.9694957516087599
+beagle books,0134999975,introduction to the x window system,jones oliver,0.9899478121250491,0.999846227688312
+browns books,0321340795,computer systems architecture,williams rob,0.9701051677262732,0.9997408663521204
+economy books,0131856448,computer organization and architecture designing for performance,stallings william,0.9917459627113042,0.9999999999227798
+economy books,0131485210,structured computer organization,tanenbaum andrew s,0.9917459627113042,0.9999999998214
+flybookstore,0131491792,essentials of computer architecture,comer douglas e,0.9927126434311111,0.9991732547556669
+economy books,0130484407,computer systems design and architecture,heuring vincent p jordan harry f,0.9917459627113042,0.9996976953795892
+indoo.com,0131420445,mips assembly language programming,britton robert,0.9361375021708288,0.98481565788306
+the e,013034074X,computer systems a programmers perspective,bryant randal e ohallaron david r,0.9959742144677067,0.9951139706851687
+endeavour books,0201436647,principles of computer architecture,murdocca miles heuring vincent p,0.9476009761025272,0.9476009761025272
+proservice,0132212110,modern database management,hoffer jeffrey a prescott mary b mcfadden fred r,0.9891092523830688,0.9999987437270074
+mildredsbooks,0131453203,modern database management 7th edition,jeffrey a hoffer mary prescott fred mcfadden,0.990655896125643,0.9921350988554829
+collegebooksdirect.com,0131018574,database systems using oracle a simplified guide to sql and plsql,shah nilesh,0.9674708560053913,0.985258215278405
+versandantiquariat robert a. mueller,0130174807,spatial databases a tour,shekhar shashi chawla sanjay,0.974699512241104,0.9905543925599808
+proservice,0130319953,database systems the complete book,garciamolina hector ullman jeffrey d widom jennifer d,0.9891092523830688,0.9801378610978997
+happybook,0130353000,a first course in database systems 2nd edition,jeffrey d ullman jennifer d widom,0.9951261595446104,0.9842268148354385
+browns books,0130304182,a a,blaha michael,0.9701051677262732,0.9964928934435281
+a1books,0130286524,understanding relational database query languages,dietrich suzanne w,0.9490805663451509,0.9834724007637033
+a team books,0131400851,data and text mining a business applications approach,thomas w miller,0.9712981138014148,0.9799910846156208
+govind garg,0130888923,data mining introductory and advanced topics,margaret h dunham,0.9695594650791933,0.9998097112150969
+jessebook,0131679953,discrete mathematics with graph theory 3rd edition,edgar g goodaire michael m parmenter,0.9277751700663568,0.9994276401670306
+proservice,0131176862,discrete mathematics,johnsonbaugh richard,0.9891092523830688,0.9989131926877574
+govind garg,0130457973,discrete mathematical structures fifth edition,bernard kolman robert c busby sharon cutler ross,0.9695594650791933,0.9863774618187299
+leon's book store,0130457914,discrete mathematics with combinatorics second edition,anderson james a,0.9986803330174034,0.9986803330174034
+carol's books,0130669482,discrete mathematics with proof,gossett eric,0.8678178466996083,0.9995849943620267
+ashleyjohnson,0130652474,discrete mathematics 5th edition,ross kenneth a wright charles r,0.9730246431872029,0.9841289072872903
+"textsearch, international (we recycle!)",0130186619,essential discrete mathematics for computer science,feil todd krone joan,0.9739261385872481,0.9948574566734799
+bunches of books,0130654876,logic and language models for computer science,henry hamburger dana richards,0.9764145375182668,0.9698929829659113
+bobs books,0135012066,logic discrete mathemtcscmptr sci perspc,grassman tremblay,0.957244454796714,0.9299411899434705
+www.anybookworld.com,013214171X,discrete mathematical models with applications to social biological and environmental problems,fred s roberts,0.9680751822898259,0.9858871546425768
+bargainbookstores.com,0131003127,itv handbook technologies and standards,edward m schwalb,0.9871913281558565,0.9729801811707105
+ecampus.com,0130460990,multimedia wireless networks technologies standards and qos,ganz aura ganz zvi wongthavarawat kitti,0.9638414552066021,0.9966441413603122
+highfield book shop,0131414631,quality of service for intenet multimedia,jitae shin daniel c lee cc jay kuo cc jay kuo,0.9801101780995148,0.9462452682155666
+the e,013031398X,multimedia communication systems techniques standards and networks,rao k ramamohan rao kr bojkovic z s bojkovic zoran s milovanovic dragorad a,0.9959742144677067,0.9891084246035482
+book oasis,0138569231,multimedia communications protocols and applications,effelsberg wolfgang,0.943451519853781,0.89129562513847

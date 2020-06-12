@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 from fuzzywuzzy import fuzz
-from similarity.cosine import Cosine
+from strsimpy.cosine import Cosine
 
 def cosine_sim(f1, f2):
     cosine = Cosine(2)
@@ -21,7 +21,7 @@ class TruthFinder(object):
         fact (string): Fact/Attribute column name in the DataFrame
         obj (string): Object/Identifier column name in the DataFrame
         implication (function): Similarity function between strings
-        dampening_factor (float): Dampening factor (omega) to account for source dependance
+        dampening_factor (float): Dampening factor (gamma) to account for source dependance
         relatedness_factor (float): Relatedness factor (rho) to account for the influence of related facts
         base_sim (float): Threshold for positive implication
     '''
