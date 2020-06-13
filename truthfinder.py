@@ -9,7 +9,7 @@ def cosine_sim(f1, f2):
     p1 = cosine.get_profile(f2)
     return cosine.similarity_profiles(p0, p1)
 
-def character_sub_sim(f1, f2):
+def character_token_sim(f1, f2):
     return (fuzz.token_set_ratio(f1.lower(), f2.lower()) / 100)
 
 class TruthFinder(object):
@@ -21,11 +21,12 @@ class TruthFinder(object):
         fact (string): Fact/Attribute column name in the DataFrame
         obj (string): Object/Identifier column name in the DataFrame
         implication (function): Similarity function between strings
+        initial_trust (float): Initial sources trustworthiness
         dampening_factor (float): Dampening factor (gamma) to account for source dependance
         relatedness_factor (float): Relatedness factor (rho) to account for the influence of related facts
         base_sim (float): Threshold for positive implication
     '''
-    def __init__(self, df, fact, obj, implication = None, dampening_factor = 0.3, relatedness_factor = 0.5, base_sim = 0.5):
+    def __init__(self, df, fact, obj, implication = None, initial_trust = 0.9, dampening_factor = 0.3, relatedness_factor = 0.5, base_sim = 0.5):
         self.df = df
         self.fact = fact
         self.object = obj
@@ -35,16 +36,17 @@ class TruthFinder(object):
         else:
             self.implication = implication
 
+        self.initial_trust = initial_trust
         self.dampening_factor = dampening_factor
         self.relatedness_factor = relatedness_factor
         self.base_sim = base_sim
 
-    def compute(self, max_it = 10, tolerance = 0.001, initial_trust = 0.9):
+    def compute(self, max_it = 10, tolerance = 0.001, progress = False):
         '''
         Iterative computation of fact confidences and source trustworthiness until stability
         '''
 
-        self.df['trust'] = initial_trust
+        self.df['trust'] = self.initial_trust
         self.df['confidence'] = 0.0
 
         for i in range(max_it):
@@ -59,6 +61,9 @@ class TruthFinder(object):
             error = (t1 @ t2.T) / (np.linalg.norm(t1)*np.linalg.norm(t2))
             error = 1 - error
 
+            if progress:
+                print("Iteration: {}, Error: {}".format(i, error))
+
             if error > tolerance:
                 break
         
@@ -70,7 +75,7 @@ class TruthFinder(object):
         '''
         for obj in self.df[self.object].unique():
             idx = self.df[self.object] == obj
-            data = self.df.loc[idx].copy()
+            data = self.df.loc[idx].copy(deep=True)
             data = self._initial_confidence(data)
             data = self._adjust_confidence_related(data)
             data = self._adjust_confidence_dependance(data)
@@ -84,7 +89,7 @@ class TruthFinder(object):
             # Extracting source trustworthiness
             t_s = data.loc[data[self.fact] == row[self.fact], "trust"]
             # Computing source trustworthiness score (tau_s) and fact confidence score (sigma_f) at once
-            sigma_f = sum(-np.log(1-t) for t in t_s)
+            sigma_f = sum(-np.log(1-(t-1e-5)) for t in t_s)
             data.at[i, "confidence"] = sigma_f
         return data
 
@@ -102,7 +107,7 @@ class TruthFinder(object):
                     continue
                 relatedness += j_row["confidence"] * (self.implication(f2, f1) - self.base_sim)
 
-            adjusted_confidences[i] = self.relatedness_factor * relatedness + i_row["confidence"]
+            adjusted_confidences[i] = self.relatedness_factor * relatedness + (1 - self.relatedness_factor) * i_row["confidence"]
             
         data["confidence"] = adjusted_confidences.values()
         return data
@@ -133,7 +138,7 @@ class TruthFinder(object):
         object_collection = pd.DataFrame(columns=self.df.columns)
         for obj in self.df[self.object].unique():
             idx = self.df[self.object] == obj
-            data = self.df.loc[idx].copy()
+            data = self.df.loc[idx].copy(deep=True)
             true_fact = data.loc[data["confidence"].idxmax()]
             object_collection = object_collection.append([true_fact], ignore_index=True)
         return object_collection

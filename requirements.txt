@@ -3,6 +3,6 @@ jupyter_contrib_nbextensions
 jupyter_nbextensions_configurator
 fuzzywuzzy[speedup]
 strsimpy
+numpy
 pandas
 seaborn
-
