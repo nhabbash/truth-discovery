@@ -20,6 +20,23 @@ $ python -m venv .venv
 $ .venv/Scripts/Activate.ps1
 $ pip install -r requirements
 ```
+
+## Usage
+```python
+import pandas as pd
+from truthfinder import TruthFinder
+
+# Read DataFrame, eventually clean it
+
+f = "attribute"
+obj = "identifier"
+finder = TruthFinder(dataframe.copy(deep=True), fact=f, obj=obj)
+result = finder.compute()
+
+# Result ontains the maximum confidence values for fact/attribute f of unique object obj
+print(result) 
+```
+Check the notebook for more on its use
 #
 ## Authors
 * **Nassim Habbash** - [nhabbash](https://github.com/nhabbash)
