@@ -5,7 +5,7 @@
 This work implements the TruthFinder algorithm as presented in the paper [Truth Discovery with Multiple Conflicting Information Providers on the Web](http://web.cs.ucla.edu/~yzsun/classes/2014Spring_CS7280/Papers/Trust/kdd07_xyin.pdf). TruthFinder is an algorithm that tries to solve the veracity problem in an iterative process, thus find the most probable true value for an object given a set of possible conflicting values.
 
 #### [Documentatation](docs/report.pdf)
-#### [Presentation](docs/presentation.pdf)
+#### [Slides](docs/slides.pdf)
 
 # Prerequisites
 * Python 3.7 or higher
